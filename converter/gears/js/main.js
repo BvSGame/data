@@ -9,7 +9,7 @@ let file = {
 };
 
 
-readTextFile({url: '../../../project_version.md'}, fileContents => {
+readTextFile({url: '../project_version.md'}, fileContents => {
   const md = markdown2object(fileContents);
 
   let currentDevStage = 'n_a';
