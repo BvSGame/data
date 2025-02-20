@@ -1,0 +1,21 @@
+{
+  "wip_2_0": {
+    "not_started": true
+  },
+  "wip_1_5": {
+    "2025_02_20": {
+      "0_1_5_3": [
+        "**Data Converter** – early version is done: <https://bvsgame.github.io/data/converter>. It just converts “project_version.md” to JSON format."
+      ],
+      "0_1_5_2": [
+        "**Data**\n-  Empty files for Markdown converter are created.\n-  Instead of just JSON files, it’s also planned to have conversions to CSV and XML files.\n-  **2do.md** – now formatted as a Markdown checklist."
+      ],
+      "0_1_5_1": [
+        "Proper versioning of the project itself is started! Introducing “project_version” files! Publicly accessible from: <https://bvsgame.github.io/data/project_version.md>\n-  From now on, all other elements of the project are sharing this number.\n-  If contributions are done simultaneously by multiple people, it’s recommended to use the format of branches, e.g. `0.1.5.1_edx`\n    -  Branch names must be unique. Simply use a short form of your nickname, like `edx` is short for `liledix4`\n    -  Eventually, all branches must be merged into the main version number.",
+        "Public to-do list is started: <https://bvsgame.github.io/data/2do.md>"
+      ]
+    }
+  },
+  "wip_1_0": {},
+  "legacy": {}
+}

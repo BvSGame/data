@@ -1,0 +1,17 @@
+body {
+  font-family: 'Sofia Sans Condensed', system-ui, sans-serif;
+  margin: 20px;
+  max-width: 400px;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Tektur', system-ui, sans-serif;
+}
+pre {
+  white-space: pre-wrap;
+  max-height: 400px;
+  overflow: auto;
+  overflow-wrap: anywhere;
+  border: 2px solid #00000022;
+  border-radius: 10px;
+  padding: 10px;
+}

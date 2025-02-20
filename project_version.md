@@ -10,10 +10,13 @@
 
 #### 20
 
+- `0.1.5.3`
+  - **Data Converter** – early version is done: <https://bvsgame.github.io/data/converter>. It just converts “project_version.md” to JSON format.
 - `0.1.5.2`
-  - Empty files for Markdown converter are created.
-  - Instead of just JSON files, it’s also planned to have conversions to CSV and XML files.
-  - **2do.md** – now formatted as a Markdown checklist.
+  - **Data**
+    - Empty files for Markdown converter are created.
+    - Instead of just JSON files, it’s also planned to have conversions to CSV and XML files.
+    - **2do.md** – now formatted as a Markdown checklist.
 - `0.1.5.1`
   - Proper versioning of the project itself is started! Introducing “project_version” files! Publicly accessible from: <https://bvsgame.github.io/data/project_version.md>
     - From now on, all other elements of the project are sharing this number.
