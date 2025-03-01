@@ -1,5 +1,5 @@
 ---
-revised: 0.1.5.6
+revised: 0.1.5.7
 ---
 
 # Saylor
@@ -16,7 +16,7 @@ revised: 0.1.5.6
 - **Weight:** 138 lb (62.5 kg) – inaccuracies are not critical.
 - **Body shape measurements:** 33-25-32 (84-64-81) – inaccuracies are not critical.
 - **Hair:** short (shoulder-length beachy waves / wavy bob), pink color, partially tinted with blue-violet.
-  - Earlier, she had long straight hair with brown color.
+  - As a teenager, she had long, straight, brown-colored hair.
 - **Eye color:** blue.
 
 ## 2. In-game and key story/lore aspects
