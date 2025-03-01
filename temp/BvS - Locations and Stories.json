@@ -1,0 +1,935 @@
+{
+    "_schema": {
+        "!json_title": "{string}",
+        "!games": ["{string}"],
+        "!alt_versions": [
+            {
+                "!alt_version_title": "{string|array[string]}",
+                "?description": "{string}",
+                "!alt_version_code": "{string|array[string]}"
+            }
+        ],
+        "!universes": [
+            {
+                "!universe_title": "{string|array[string]}",
+                "?description": "{string}",
+                "!universe_code": "{string|array[string]}"
+            }
+        ],
+        "!locations": [
+            {
+                "!location_title": "{string|array[string]}",
+                "?description": "{string}",
+                "!location_code": "{string|array[string]}",
+                "!universe": "{string|array[string]} A special value is “Transferable”, which means that the location doesn't remain in only one universe.",
+                "!astro_object": "{string|array[string]}",
+                "?time_periods": "{string|array[string]|boolean[false])} “false” can be used if “universe” is set to “Transferable”.",
+                "?alt_versions": "{string|array[string]}"
+            }
+        ],
+        "!chapters_list": [
+            {
+                "?uncertain_order": "{boolean}",
+                "!chapter_title": "{string}",
+                "?description": "{string}",
+                "!game": "{integer}",
+                "!chapter_group": "{string|array[string]}",
+                "!main_universe": "{string|array[string]}",
+                "!main_location": "{string|array[string]}",
+                "!stories": [
+                    {
+                        "?uncertain_order": "{boolean}",
+                        "!story_title": "{string|array[string]}",
+                        "?description": "{string}",
+                        "?boss_fight": "{string['mini'|'major']}",
+                        "!characters": "{string|array[string]}",
+                        "?universes": "{string|array[string]}",
+                        "?locations": "{string|array[string]}",
+                        "?locations_exact": ["{string}"],
+                        "?locations_times": ["{string}"],
+                        "?story_plot_points": ["{string}"],
+                        "?parts": [
+                            {
+                                "!part_no": "{integer}",
+                                "?description": "{string}",
+                                "?boss_fight": "{string['mini'|'major']}",
+                                "!characters": "{string|array[string]}",
+                                "?universes": "{string|array[string]}",
+                                "?locations": "{string|array[string]}",
+                                "?locations_exact": ["{string}"],
+                                "?locations_times": ["{string}"],
+                                "?part_plot_points": ["{string}"]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "json_title": "Locations and Stories",
+    "games": [
+        "Bombs vs. Sleepwalkers Origins",
+        "Bombs vs. Sleepwalkers",
+        "Bombs vs. Sleepwalkers 2",
+        "Bombs vs. Sleepwalkers 3D"
+    ],
+    "alt_versions": [
+        {
+            "alt_version_title": "Cube-Simulator",
+            "alt_version_code": "CS"
+        },
+        {
+            "alt_version_title": "Warped Earth",
+            "alt_version_code": "WE"
+        }
+    ],
+    "universes": [
+        {
+            "universe_title": "Original Saylor's Universe",
+            "universe_code": "OG"
+        },
+        {
+            "universe_title": "Parallel Universe",
+            "universe_code": "PU"
+        }
+    ],
+    "locations": [
+        {
+            "location_title": "Present Time",
+            "location_code": "PT",
+            "universe": "OG",
+            "astro_object": "Earth",
+            "time_periods": "2024",
+            "alt_versions": ["CS", "WE"]
+        },
+        {
+            "location_title": "Wild West",
+            "location_code": "WW",
+            "universe": "OG",
+            "astro_object": "Earth",
+            "time_periods": "1860",
+            "alt_versions": ["CS", "WE"]
+        },
+        {
+            "location_title": "2345",
+            "location_code": "45",
+            "universe": "OG",
+            "astro_object": "Earth",
+            "time_periods": "2345",
+            "alt_versions": ["CS", "WE"]
+        },
+        {
+            "location_title": "3000s",
+            "location_code": "3K",
+            "universe": "OG",
+            "astro_object": "Earth",
+            "time_periods": null,
+            "alt_versions": ["CS", "WE"]
+        },
+        {
+            "location_title": "2038",
+            "location_code": "38",
+            "universe": "OG",
+            "astro_object": "Earth",
+            "time_periods": null,
+            "alt_versions": ["CS", "WE"]
+        },
+        {
+            "location_title": "Distant Future",
+            "location_code": "DF",
+            "universe": "OG",
+            "astro_object": "Earth",
+            "time_periods": null,
+            "alt_versions": ["CS", "WE"]
+        },
+        {
+            "location_title": "40th Millennium",
+            "location_code": "40K",
+            "universe": "OG",
+            "astro_object": "Earth",
+            "time_periods": null
+        },
+        {
+            "location_title": "14th Millennium",
+            "location_code": "14K",
+            "universe": "OG",
+            "astro_object": "Earth",
+            "time_periods": null,
+            "alt_versions": ["CS", "WE"]
+        },
+        {
+            "location_title": "Pripyat",
+            "location_code": "PR",
+            "universe": "OG",
+            "astro_object": "Earth",
+            "time_periods": null,
+            "alt_versions": ["CS", "WE"]
+        },
+        {
+            "location_title": "1980s",
+            "location_code": "80",
+            "universe": "OG",
+            "astro_object": "Earth",
+            "time_periods": "1984",
+            "alt_versions": ["CS", "WE"]
+        },
+        {
+            "location_title": "1970s",
+            "location_code": "70",
+            "universe": "OG",
+            "astro_object": "Earth",
+            "time_periods": "1970"
+        },
+        {
+            "location_title": "1960s",
+            "location_code": "60",
+            "universe": "OG",
+            "astro_object": "Earth",
+            "time_periods": null,
+            "alt_versions": ["CS", "WE"]
+        },
+        {
+            "location_title": "Manhattan in Late 1940s",
+            "location_code": "MH",
+            "universe": "OG",
+            "astro_object": "Earth",
+            "time_periods": null,
+            "alt_versions": ["CS", "WE"]
+        },
+        {
+            "location_title": "Industrial Revolution",
+            "location_code": "IR",
+            "universe": "OG",
+            "astro_object": "Earth",
+            "time_periods": null,
+            "alt_versions": ["CS", "WE"]
+        },
+        {
+            "location_title": "Medieval Fortress",
+            "location_code": "MD",
+            "universe": "OG",
+            "astro_object": "Earth",
+            "time_periods": null,
+            "alt_versions": ["CS", "WE"]
+        },
+        {
+            "location_title": "Hekla",
+            "location_code": "HK",
+            "universe": "OG",
+            "astro_object": "Earth",
+            "time_periods": null,
+            "alt_versions": ["CS", "WE"]
+        },
+        {
+            "location_title": "Ancient Egypt",
+            "location_code": "AE",
+            "universe": "OG",
+            "astro_object": "Earth",
+            "time_periods": null,
+            "alt_versions": ["CS", "WE"]
+        },
+        {
+            "location_title": "Jurassic Period",
+            "location_code": "JU",
+            "universe": "OG",
+            "astro_object": "Earth",
+            "time_periods": null,
+            "alt_versions": ["CS", "WE"]
+        },
+        {
+            "location_title": "Cube-Simulator Mk I",
+            "location_code": "CS1",
+            "universe": "PU",
+            "astro_object": "Earth",
+            "time_periods": null
+        },
+        {
+            "location_title": "Cube-Simulator Mk II",
+            "location_code": "CS2",
+            "universe": "PU",
+            "astro_object": null,
+            "time_periods": null
+        },
+        {
+            "location_title": "The Moon's Surface",
+            "location_code": "MN",
+            "universe": ["PU", "OG"],
+            "astro_object": "Moon",
+            "time_periods": null
+        },
+        {
+            "location_title": "The Moonbase",
+            "location_code": "MB",
+            "universe": ["PU", "OG"],
+            "astro_object": "Moon",
+            "time_periods": null
+        },
+        {
+            "location_title": "Darkrock's Underground Magmatic Base",
+            "location_code": "UG",
+            "universe": "PU",
+            "astro_object": "Earth",
+            "time_periods": null
+        },
+        {
+            "location_title": "Jenesis' Palace",
+            "location_code": "JP",
+            "universe": "Transferable",
+            "astro_object": "Jenesis' Asteroid",
+            "time_periods": false
+        }
+    ],
+    "chapters_list": [
+        {
+            "chapter_title": "No Time Like the Present",
+            "game": 1,
+            "chapter_group": "Original Universe – Strict Order",
+            "main_universe": "OG",
+            "main_location": "PT",
+            "stories": [
+                {
+                    "story_title": "The Story Begins",
+                    "characters": ["!*Saylor", "!*Rick", "*Shirley", "?Alex"],
+                    "locations_exact": ["Saylor's University"]
+                },
+                {
+                    "story_title": null,
+                    "characters": ["Saylor", "Rick", "*Eddie"]
+                }
+            ]
+        },
+        {
+            "chapter_title": "Not O.K. Quarrel",
+            "game": 1,
+            "chapter_group": "Original Universe – Strict Order",
+            "main_universe": "OG",
+            "main_location": "WW",
+            "stories": [
+                {
+                    "story_title": null,
+                    "characters": ["Saylor", "Rick", "!*Toni"]
+                }
+            ]
+        },
+        {
+            "chapter_title": "2345",
+            "game": 1,
+            "chapter_group": "Original Universe – Strict Order",
+            "main_universe": "OG",
+            "main_location": "45",
+            "stories": [
+                {
+                    "story_title": null,
+                    "characters": ["Saylor", "Rick", "Toni"]
+                }
+            ]
+        },
+        {
+            "chapter_title": "Future in Your Hands – Chapter 1",
+            "game": 1,
+            "chapter_group": "Original Universe – Strict Order",
+            "main_universe": "OG",
+            "main_location": "3K",
+            "stories": [
+                {
+                    "story_title": null
+                }
+            ]
+        },
+        {
+            "chapter_title": "2038",
+            "game": 1,
+            "chapter_group": "Original Universe – Strict Order",
+            "main_universe": "OG",
+            "main_location": "38",
+            "stories": [
+                {
+                    "uncertain_order": true,
+                    "story_title": "Fleeing the Urban Chaos",
+                    "boss_fight": "mini",
+                    "characters": ["Saylor", "#Lisa", "Flying Killer Robot?"]
+                }
+            ]
+        },
+        {
+            "chapter_title": "Future in Your Hands – Chapter 2",
+            "game": 1,
+            "chapter_group": "Original Universe – Strict Order",
+            "main_universe": "OG",
+            "main_location": "3K",
+            "stories": [
+                {
+                    "story_title": null
+                }
+            ]
+        },
+        {
+            "chapter_title": "No Space Like This Universe",
+            "game": 1,
+            "chapter_group": "Original Universe – Optional Order",
+            "main_universe": "OG",
+            "main_location": "PT",
+            "stories": [
+                {
+                    "story_title": null
+                }
+            ]
+        },
+        {
+            "chapter_title": "Caught in 2K",
+            "game": 1,
+            "chapter_group": "Original Universe – Optional Order",
+            "main_universe": "OG",
+            "main_location": "PT",
+            "stories": [
+                {
+                    "story_title": "Undercover",
+                    "characters": ["Saylor", "Rick", "!*Marie", "*Elena", "@*Guards", "?Toni"],
+                    "locations_times": ["PT Day 21, afternoon"],
+                    "story_plot_points": [
+                        "Rick reunites with Marie."
+                    ]
+                }
+            ]
+        },
+        {
+            "chapter_title": "Give the Pianist a Shot",
+            "game": 1,
+            "chapter_group": "Original Universe – Optional Order",
+            "main_universe": "OG",
+            "main_location": "WW",
+            "stories": [
+                {
+                    "story_title": null
+                }
+            ]
+        },
+        {
+            "chapter_title": "Security Breach",
+            "game": 1,
+            "chapter_group": "Original Universe – Optional Order",
+            "main_universe": "OG",
+            "main_location": "45",
+            "stories": [
+                {
+                    "story_title": null
+                }
+            ]
+        },
+        {
+            "chapter_title": "Sleepless Thousand",
+            "game": 1,
+            "chapter_group": "Original Universe – Optional Order",
+            "main_universe": "OG",
+            "main_location": "3K",
+            "stories": [
+                {
+                    "story_title": null
+                }
+            ]
+        },
+        {
+            "chapter_title": "Don't Shoot Saylor",
+            "game": 1,
+            "chapter_group": "Original Universe – Optional Order",
+            "main_universe": "OG",
+            "main_location": "38",
+            "stories": [
+                {
+                    "story_title": null
+                }
+            ]
+        },
+        {
+            "chapter_title": "The New Order",
+            "game": 1,
+            "chapter_group": "Original Universe – Optional Order",
+            "main_universe": "OG",
+            "main_location": "38",
+            "stories": [
+                {
+                    "story_title": null
+                }
+            ]
+        },
+        {
+            "chapter_title": "The New Tribes",
+            "game": 1,
+            "chapter_group": "Original Universe – Optional Order",
+            "main_universe": "OG",
+            "main_location": "DF",
+            "stories": [
+                {
+                    "story_title": null
+                }
+            ]
+        },
+        {
+            "chapter_title": "Ancient Habits",
+            "game": 1,
+            "chapter_group": "Original Universe – Optional Order",
+            "main_universe": "OG",
+            "main_location": "DF",
+            "stories": [
+                {
+                    "story_title": null
+                }
+            ]
+        },
+        {
+            "chapter_title": "Tech Paradise",
+            "game": 1,
+            "chapter_group": "Original Universe – Optional Order",
+            "main_universe": "OG",
+            "main_location": "14K",
+            "stories": [
+                {
+                    "story_title": null
+                }
+            ]
+        },
+        {
+            "chapter_title": "So Meta",
+            "game": 1,
+            "chapter_group": "Original Universe – Optional Order",
+            "main_universe": "OG",
+            "main_location": "14K",
+            "stories": [
+                {
+                    "story_title": null
+                }
+            ]
+        },
+        {
+            "chapter_title": "Radiation Fall",
+            "game": 1,
+            "chapter_group": "Original Universe – Optional Order",
+            "main_universe": "OG",
+            "main_location": "PR",
+            "stories": [
+                {
+                    "story_title": null
+                }
+            ]
+        },
+        {
+            "chapter_title": "Spring Field",
+            "game": 1,
+            "chapter_group": "Original Universe – Optional Order",
+            "main_universe": "OG",
+            "main_location": "PR",
+            "stories": [
+                {
+                    "story_title": null
+                }
+            ]
+        },
+        {
+            "chapter_title": "Chartbusters",
+            "game": 1,
+            "chapter_group": "Original Universe – Optional Order",
+            "main_universe": "OG",
+            "main_location": "80",
+            "stories": [
+                {
+                    "story_title": null
+                }
+            ]
+        },
+        {
+            "chapter_title": "The Beat of '84",
+            "game": 1,
+            "chapter_group": "Original Universe – Optional Order",
+            "main_universe": "OG",
+            "main_location": "80",
+            "stories": [
+                {
+                    "story_title": null
+                }
+            ]
+        },
+        {
+            "chapter_title": "Twice Upon a Time",
+            "game": 1,
+            "chapter_group": "Original Universe – Optional Order",
+            "main_universe": "OG",
+            "main_location": "70",
+            "stories": [
+                {
+                    "story_title": null
+                }
+            ]
+        },
+        {
+            "chapter_title": "The Surf Boom",
+            "game": 1,
+            "chapter_group": "Original Universe – Optional Order",
+            "main_universe": "OG",
+            "main_location": "60",
+            "stories": [
+                {
+                    "story_title": null
+                }
+            ]
+        },
+        {
+            "chapter_title": "No Sun at the Beach",
+            "game": 1,
+            "chapter_group": "Original Universe – Optional Order",
+            "main_universe": "OG",
+            "main_location": "60",
+            "stories": [
+                {
+                    "story_title": null
+                }
+            ]
+        },
+        {
+            "chapter_title": "Noir Au Revoir",
+            "game": 1,
+            "chapter_group": "Original Universe – Optional Order",
+            "main_universe": "OG",
+            "main_location": "MH",
+            "stories": [
+                {
+                    "story_title": null
+                }
+            ]
+        },
+        {
+            "chapter_title": "Manhattan in Time",
+            "game": 1,
+            "chapter_group": "Original Universe – Optional Order",
+            "main_universe": "OG",
+            "main_location": "MH",
+            "stories": [
+                {
+                    "story_title": null
+                }
+            ]
+        },
+        {
+            "chapter_title": "The Rise of Machinery",
+            "game": 1,
+            "chapter_group": "Original Universe – Optional Order",
+            "main_universe": "OG",
+            "main_location": "IR",
+            "stories": [
+                {
+                    "story_title": null
+                }
+            ]
+        },
+        {
+            "chapter_title": "Industry Standout",
+            "game": 1,
+            "chapter_group": "Original Universe – Optional Order",
+            "main_universe": "OG",
+            "main_location": "IR",
+            "stories": [
+                {
+                    "story_title": null
+                }
+            ]
+        },
+        {
+            "chapter_title": "Steam-Powered Computers",
+            "game": 1,
+            "chapter_group": "Original Universe – Optional Order",
+            "main_universe": "OG",
+            "main_location": "IR",
+            "stories": [
+                {
+                    "story_title": null
+                }
+            ]
+        },
+        {
+            "chapter_title": "Journey to the Mid",
+            "game": 1,
+            "chapter_group": "Original Universe – Optional Order",
+            "main_universe": "OG",
+            "main_location": "MD",
+            "stories": [
+                {
+                    "story_title": null
+                }
+            ]
+        },
+        {
+            "chapter_title": "My Moonlit Pony",
+            "game": 1,
+            "chapter_group": "Original Universe – Optional Order",
+            "main_universe": "OG",
+            "main_location": "MD",
+            "stories": [
+                {
+                    "story_title": null
+                }
+            ]
+        },
+        {
+            "chapter_title": "Slow Burn",
+            "game": 1,
+            "chapter_group": "Original Universe – Optional Order",
+            "main_universe": "OG",
+            "main_location": "HK",
+            "stories": [
+                {
+                    "story_title": null
+                }
+            ]
+        },
+        {
+            "chapter_title": "Fast Burnout",
+            "game": 1,
+            "chapter_group": "Original Universe – Optional Order",
+            "main_universe": "OG",
+            "main_location": "HK",
+            "stories": [
+                {
+                    "story_title": null
+                }
+            ]
+        },
+        {
+            "chapter_title": "The Maze of Giza",
+            "game": 1,
+            "chapter_group": "Original Universe – Optional Order",
+            "main_universe": "OG",
+            "main_location": "AE",
+            "stories": [
+                {
+                    "story_title": null
+                }
+            ]
+        },
+        {
+            "chapter_title": "Smart Home",
+            "game": 1,
+            "chapter_group": "Original Universe – Optional Order",
+            "main_universe": "OG",
+            "main_location": "AE",
+            "stories": [
+                {
+                    "story_title": null
+                }
+            ]
+        },
+        {
+            "chapter_title": "Jurassic Megalo-Blastic",
+            "game": 1,
+            "chapter_group": "Original Universe – Optional Order",
+            "main_universe": "OG",
+            "main_location": "JU",
+            "stories": [
+                {
+                    "story_title": null
+                }
+            ]
+        },
+        {
+            "chapter_title": "The Last of Them",
+            "game": 1,
+            "chapter_group": "Original Universe – Optional Order",
+            "main_universe": "OG",
+            "main_location": "JU",
+            "stories": [
+                {
+                    "story_title": null
+                }
+            ]
+        },
+        {
+            "chapter_title": "Cube-Simulator",
+            "game": 1,
+            "chapter_group": "Parallel Universe",
+            "main_universe": "PU",
+            "main_location": "CS1",
+            "stories": [
+                {
+                    "story_title": null
+                }
+            ]
+        },
+        {
+            "chapter_title": "Borderline All-Out",
+            "game": 1,
+            "chapter_group": "Parallel Universe",
+            "main_universe": "PU",
+            "main_location": "CS1",
+            "stories": [
+                {
+                    "story_title": null
+                }
+            ]
+        },
+        {
+            "chapter_title": "Moonwalkers",
+            "game": 1,
+            "chapter_group": "Parallel Universe",
+            "main_universe": "PU",
+            "main_location": "MN",
+            "stories": [
+                {
+                    "story_title": null
+                }
+            ]
+        },
+        {
+            "chapter_title": "Unearthly Files",
+            "game": 1,
+            "chapter_group": "Parallel Universe",
+            "main_universe": "PU",
+            "main_location": "MB",
+            "stories": [
+                {
+                    "story_title": null
+                }
+            ]
+        },
+        {
+            "chapter_title": "It's Time to Stop",
+            "game": 1,
+            "chapter_group": "Parallel Universe",
+            "main_universe": "PU",
+            "main_location": "CS1",
+            "stories": [
+                {
+                    "story_title": null
+                }
+            ]
+        },
+        {
+            "chapter_title": "Icy Hot",
+            "game": 1,
+            "chapter_group": "Parallel Universe",
+            "main_universe": "PU",
+            "main_location": "CS1",
+            "stories": [
+                {
+                    "story_title": null
+                }
+            ]
+        },
+        {
+            "chapter_title": "Wrapping by Warping",
+            "game": 1,
+            "chapter_group": "Parallel Universe",
+            "main_universe": "PU",
+            "main_location": ["CS2", "JP"],
+            "stories": [
+                {
+                    "chapter_title": "Wrapping by Warping 1",
+                    "characters": null
+                },
+                {
+                    "chapter_title": "Wrapping by Warping 2",
+                    "characters": null
+                },
+                {
+                    "chapter_title": "Wrapping by Warping 3",
+                    "characters": null
+                },
+                {
+                    "chapter_title": "Wrapping by Warping 4",
+                    "characters": null
+                }
+            ]
+        },
+        {
+            "chapter_title": "Space Twister",
+            "game": 2,
+            "chapter_group": "Trapped in a Trip",
+            "main_universe": "OG",
+            "main_location": null,
+            "stories": [
+                {
+                    "uncertain_order": true,
+                    "story_title": ["Two Shades of Pink", "Pinkish and Brainy"],
+                    "locations": "?Unknown Deserted Place",
+                    "characters": ["Saylor", "Toni", "*Saylor Jr."]
+                }
+            ]
+        },
+        {
+            "uncertain_order": true,
+            "chapter_title": null,
+            "game": 2,
+            "chapter_group": "Save the Day, Free the Freedom",
+            "main_universe": null,
+            "main_location": null,
+            "stories": [
+                {
+                    "story_title": null
+                }
+            ]
+        },
+        {
+            "uncertain_order": true,
+            "chapter_title": "Warm Welcome",
+            "game": 2,
+            "chapter_group": "Genesis of the Grand Show-Off",
+            "main_universe": null,
+            "main_location": null,
+            "stories": [
+                {
+                    "story_title": null
+                }
+            ]
+        },
+        {
+            "uncertain_order": true,
+            "chapter_title": null,
+            "game": 0,
+            "chapter_group": "Saylor's Story",
+            "main_universe": null,
+            "main_location": null,
+            "stories": [
+                {
+                    "uncertain_order": true,
+                    "story_title": "All-Brainer"
+                }
+            ]
+        },
+        {
+            "uncertain_order": true,
+            "chapter_title": null,
+            "game": 0,
+            "chapter_group": "Toni's Story",
+            "main_universe": null,
+            "main_location": null,
+            "stories": [
+                {
+                    "story_title": null
+                }
+            ]
+        },
+        {
+            "uncertain_order": true,
+            "chapter_title": null,
+            "game": 0,
+            "chapter_group": "Darkrock's Story",
+            "main_universe": null,
+            "main_location": null,
+            "stories": [
+                {
+                    "story_title": null
+                }
+            ]
+        },
+        {
+            "uncertain_order": true,
+            "chapter_title": null,
+            "game": 3,
+            "chapter_group": null,
+            "main_universe": null,
+            "main_location": null,
+            "stories": [
+                {
+                    "story_title": null
+                }
+            ]
+        }
+    ]
+}
