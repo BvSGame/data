@@ -6,4 +6,4 @@ contributors_wip1_5:
 
 # 📁 Platforms
 
-💣 ***[Bombs vs. Sleepwalkers](/README.md)***
+💣 ***[Bombs vs. Sleepwalkers](/README.md)** ➔ [Distribution](/distribution/readme.md)*
