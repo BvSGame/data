@@ -1,8 +1,15 @@
 ---
-revised: 0.1.5.7
+revised: 0.1.5.8
+contributors_wip1_5:
+- edx
+contributors_wip1_0:
+- edx
+- zeph
 ---
 
-# Saylor
+# 📄 Saylor
+
+💣 ***[Bombs vs. Sleepwalkers](/README.md)** ➔ [Characters](/characters/readme.md)*
 
 - ***Written:** February 28 - March 1, 2025.*
 - ***Revised:** March 1, 2025.*
