@@ -1,10 +1,8 @@
 ---
-revised: 0.1.5.8
+revised: 0.1.5.12
 contributors_wip1_5:
 - edx
 ---
-
-<center>
 
 # 💣 Bombs vs. Sleepwalkers – Public Data Repository
 
@@ -19,8 +17,6 @@ Data also comes in these flavors: [CSV](/csv/readme.md), [JSON](/json/readme.md)
 Index file (for XMLHttpRequest or programmatic file load): [CSV](/csv/index.csv), [JSON](/json/index.json), [XML](/xml/index.xml)
 
 [Version number file](/version)
-
-</center>
 
 ## General notes
 
