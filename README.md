@@ -1,5 +1,5 @@
 ---
-revised: 0.1.5.12
+revised: 0.1.5.14
 contributors_wip1_5:
 - edx
 ---
@@ -7,6 +7,14 @@ contributors_wip1_5:
 # 💣 Bombs vs. Sleepwalkers – Public Data Repository
 
 Technically, documentation and wiki in one place, designed to be parsed in a variety of ways.
+
+> [!WARNING]
+>
+> It shouldn’t be surprising for anyone, but still, we have to point it out until the problem gets resolved.
+>
+> This repository contains blank pages. LOTS of them. It doesn’t mean there was nothing to write. We had an impressive number of written ideas unfortunately scattered across many private places online (even various messengers and various Discord servers).
+>
+> Since February 2025, it was decided to gradually publish information that had previously been private. We still strictly adhere to the non-disclosure of spoilers and information that reveals vital plot and gameplay points before the proper media release.
 
 👤 [Characters](/characters/readme.md) ︱ 💻 [Coding and Development](/coding_dev/readme.md) ︱ 💁 [Collaboration](/collaboration/readme.md) ︱ 🌐 [Community](/community/readme.md) ︱ 🎨 [Design and Art](/design_art/readme.md) ︱ 📦 [Distribution](/distribution/readme.md) ︱ 👾 [Gameplay](/gameplay/readme.md) ︱ 🎮 [Games](/games/readme.md) ︱ 🛟 [Help](/help/readme.md) ︱ 💡 [Inspirations](/inspirations/readme.md) ︱ 🗺️ [Locations](/locations/readme.md) ︱ ♻️ [Merged Projects](/merged_projects/readme.md) ︱ 🧩 [Modding](/modding/readme.md) ︱ 🎵 [Music](/music/readme.md) ︱ 🤝 [Partnering Projects](/partnering_projects/readme.md) ︱ 🔢 [Project Versions](/project_versions/readme.md) ︱ 📖 [Story and Lore](/story/readme.md) ︱ 🎙️ [Voice Acting](/voice_acting/readme.md)
 
