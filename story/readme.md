@@ -11,7 +11,11 @@ contributors_wip1_0:
 
 💣 ***[Bombs vs. Sleepwalkers](/README.md)***
 
-## Navigation
+## General info
+
+- [Tropes](/story/tropes/readme.md)
+
+## By game
 
 - [Bombs vs. Sleepwalkers](/story/bvs1/readme.md) *(the first game)*
 - [Bombs vs. Sleepwalkers 2](/story/bvs2/readme.md)
