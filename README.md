@@ -1,5 +1,5 @@
 ---
-revised: 0.1.5.15
+revised: 0.1.5.16
 contributors_wip1_5:
 - edx
 ---
@@ -16,9 +16,37 @@ Technically, documentation and wiki in one place, designed to be parsed in a var
 >
 > Since February 2025, it was decided to gradually publish information that had previously been private. We still strictly adhere to the non-disclosure of spoilers and information that reveals vital plot and gameplay points before the proper media release.
 
-[👤 Characters][characters] ︱ [💻 Coding and Development][coding] ︱ [💁 Collaboration][collab] ︱ [🌐 Community][community] ︱ [💾 Content][content] ︱ [🎨 Design and Art][designart] ︱ [📦 Distribution][distribution] ︱ [👾 Gameplay][gameplay] ︱ [🎮 Games][games] ︱ [🛟 Help][help] ︱ [💡 Inspirations][inspirations] ︱ [🗺️ Locations][locations] ︱ [♻️ Merged Projects][mergedproj] ︱ [🧩 Modding][modding] ︱ [🎵 Music][music] ︱ [📒 Notes][notes] ︱ [🤝 Partnering Projects][partneringproj] ︱ [🔢 Project Versions][projver] ︱ [📖 Story and Lore][story] ︱ [🎙️ Voice Acting][voiceacting]
+- [👤 **Characters**][characters] – including mini-bosses and sleepwalkers.
+- [💻 **Coding and Development**][coding] – including code snippets, coding practices, game engines, APIs, libraries and programming languages.
+- [💁 **Collaboration**][collab] – how we’re working together.
+- [🌐 **Community**][community] – how we handle social media, websites, blogs and public resources.
+- [💾 **Content**][content] – publicly shared files anyone can use to spread the word about BvS.
+- [🎨 **Design and Art**][designart] – everything you need to know about graphics and visuals. Includes references.
+- [📦 **Distribution**][distribution] – how and where we release games.
+- [👾 **Gameplay**][gameplay] – game design, levels, detailed parameters of each game object.
+- [🎮 **Games**][games] – summaries about every game we’re working on.
+- [🛟 **Help**][help] – feeling lost? We’ve got it covered.
+- [💡 **Inspirations**][inspirations] – popular franchises and titles we may draw ideas from.
+- [🗺️ **Locations and Time Periods**][locations] – including space objects and universes. Not just game locations, but all the places that appear throughout the story.
+- [♻️ **Merged Projects**][mergedproj] – some of us may cancel our own projects and bring concepts from them to this one.
+- [🧩 **Modding**][modding] – how you can modify the games.
+- [🎵 **Music**][music] – list of tracks and the practices of composing.
+- [📒 **Notes**][notes] – essentially, a blog for everything that is not necesarily relevant to *BvS*.
+- [🤝 **Partnering Projects**][partneringproj] – you help us, we help you.
+- [🔢 **Project Versions**][projver] – what's changed and what's planned.
+- [📖 **Story and Lore**][story] – chapters, scripts, plot structures, writing guidelines.
+- [🎙️ **Voice Acting**][voiceacting] – how to play characters in voiceover. And references!
 
-[🤖 AI][ai] ︱ [💬 Ways to Contact][contact] ︱ [🧑‍💻 Contributors][contributors] ︱ [⚙️ Data Maintenance][datamaintenance] ︱ [💰 Donate][donate] ︱ [❓ F.A.Q.][faq] ︱ [🪞 Mirrors][mirrors] ︱ [💙 Thank You!][thankyou]
+****
+
+- [🤖 **AI**][ai] – how we handle the topic of artificial intelligence.
+- [💬 **Ways to Contact**][contact] – how you can get in touch with us.
+- [💰 **Donate**][donate] – if you have the financial means and if you want us to grow!
+- [🧑‍💻 **Contributors**][contributors] – the list of the most valuable people!
+- [⚙️ **Data Maintenance**][datamaintenance] – how we handle this particular repository.
+- [❓ **F.A.Q.**][faq] – if you have a question, we have an answer.
+- [🪞 **Mirrors**][mirrors] – all places where content may be officially duplicated, either for convenience or safety.
+- [💙 **Thank You!**][thankyou] – the words of gratitude!
 
 Data also comes in these flavors: [CSV][csv], [JSON][json] and [XML][xml]. These files are generated semi-automatically using [JavaScript-powered converter][converter].
 
@@ -39,7 +67,9 @@ Index file (for XMLHttpRequest or programmatic file load): [CSV][csv_index], [JS
 
 ## If you have questions
 
-No matter if your questions are simple or complicated. Weird or make perfect sense. The [“Ways to Contact” page][contact] is at your service!
+Try [F.A.Q.][faq]
+
+Also. No matter if your questions are simple or complicated. Weird or make perfect sense. The [“Ways to Contact” page][contact] is at your service!
 
 [ai]: /ai.md
 [characters]: /characters/readme.md
