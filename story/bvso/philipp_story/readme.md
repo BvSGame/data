@@ -1,9 +1,13 @@
 ---
-revised: 0.1.5.11
+revised: 0.1.5.15
 contributors_wip1_5:
 - edx
 ---
 
 # 📁 Philipp’s Story
 
-💣 ***[Bombs vs. Sleepwalkers](/README.md)** ➔ [Story and Lore](/story/readme.md) ➔ [BvS Origins](/story/bvso/readme.md)*
+💣 ***[Bombs vs. Sleepwalkers][home]** ➔ [Story and Lore][story] ➔ [BvS Origins][story_bvso]*
+
+[home]: /README.md
+[story]: /story/readme.md
+[story_bvso]: /story/bvso/readme.md

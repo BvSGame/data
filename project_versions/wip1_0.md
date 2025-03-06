@@ -1,12 +1,17 @@
 ---
-revised: 0.1.5.13
+revised: 0.1.5.15
 contributors_wip1_5:
 - edx
 ---
 
 # 📄 WIP 1.0
 
-💣 ***[Bombs vs. Sleepwalkers](/README.md)** ➔ [Project Versions](/project_versions/readme.md)*
+💣 ***[Bombs vs. Sleepwalkers][home]** ➔ [Project Versions][projver]*
 
-| [◀️ Legacy](/project_versions/legacy.md) | [1.5: Unversioned ▶️](/project_versions/wip1_5_unversioned.md) |
+| [◀️ Legacy][prev] | [1.5: Unversioned ▶️][next] |
 | --: | :-- |
+
+[home]: /README.md
+[prev]: /project_versions/legacy.md
+[next]: /project_versions/wip1_5_unversioned.md
+[projver]: /project_versions/readme.md

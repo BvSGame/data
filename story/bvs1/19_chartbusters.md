@@ -1,12 +1,18 @@
 ---
-revised: 0.1.5.8
+revised: 0.1.5.15
 contributors_wip1_5:
 - edx
 ---
 
 # 📄 Chapter 19: Chartbusters
 
-💣 ***[Bombs vs. Sleepwalkers](/README.md)** ➔ [Story and Lore](/story/readme.md) ➔ [BvS 1](/story/bvs1/readme.md)*
+💣 ***[Bombs vs. Sleepwalkers][home]** ➔ [Story and Lore][story] ➔ [BvS 1][story_bvs1]*
 
-| [◀️ Spring Field](/story/bvs1/18_spring_field.md) | [The Beat of ’84 ▶️](/story/bvs1/20_the_beat_of_84.md) |
+| [◀️ Spring Field][prev] | [The Beat of ’84 ▶️][next] |
 | --: | :-- |
+
+[home]: /README.md
+[prev]: /story/bvs1/18_spring_field.md
+[next]: /story/bvs1/20_the_beat_of_84.md
+[story]: /story/readme.md
+[story_bvs1]: /story/bvs1/readme.md

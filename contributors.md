@@ -1,12 +1,12 @@
 ---
-revised: 0.1.5.8
+revised: 0.1.5.15
 contributors_wip1_5:
 - edx
 ---
 
 # 📄 Contributors
 
-💣 ***[Bombs vs. Sleepwalkers](/README.md)***
+💣 ***[Bombs vs. Sleepwalkers][home]***
 
 ## Vacant roles
 
@@ -37,3 +37,5 @@ contributors_wip1_5:
 ### Xatiman
 
 ### ZaBlazzingZephyrus
+
+[home]: /README.md

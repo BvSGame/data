@@ -1,11 +1,14 @@
 ---
-revised: 0.1.5.8
+revised: 0.1.5.15
 contributors_wip1_5:
 - edx
 ---
 
 # 📁 Modding
 
-💣 ***[Bombs vs. Sleepwalkers](/README.md)***
+💣 ***[Bombs vs. Sleepwalkers][home]***
 
-- [Scriptwalker](/modding/scriptwalker/readme.md)
+- [Scriptwalker][scriptwalker]
+
+[home]: /README.md
+[scriptwalker]: /modding/scriptwalker/readme.md

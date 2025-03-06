@@ -1,12 +1,17 @@
 ---
-revised: 0.1.5.8
+revised: 0.1.5.15
 contributors_wip1_5:
 - edx
 ---
 
 # 📁 Services
 
-💣 ***[Bombs vs. Sleepwalkers](/README.md)** ➔ [Distribution](/distribution/readme.md)*
+💣 ***[Bombs vs. Sleepwalkers][home]** ➔ [Distribution][distribution]*
 
-- [GitHub](/distribution/services/github.md)
-- [Steam](/distribution/services/steam.md)
+- [GitHub][github]
+- [Steam][steam]
+
+[home]: /README.md
+[distribution]: /distribution/readme.md
+[github]: /distribution/services/github.md
+[steam]: /distribution/services/steam.md

@@ -1,12 +1,12 @@
 ---
-revised: 0.1.5.8
+revised: 0.1.5.15
 contributors_wip1_5:
 - edx
 ---
 
 # 📄 Document for Artists
 
-💣 ***[Bombs vs. Sleepwalkers](/README.md)** ➔ [Design and Art](/design_art/readme.md)*
+💣 ***[Bombs vs. Sleepwalkers][home]** ➔ [Design and Art][designart]*
 
 Contains references, descriptions and guidelines. No AI!
 
@@ -147,3 +147,6 @@ In the upcoming editions of this document, more characters will be added and inf
 ### 2-4. Final notes
 
 Perhaps it would be better to create separate documents instead of having everything in one document (it could take thousands of pages easily).
+
+[home]: /README.md
+[designart]: /design_art/readme.md

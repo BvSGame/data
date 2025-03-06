@@ -1,15 +1,22 @@
 ---
-revised: 0.1.5.8
+revised: 0.1.5.15
 contributors_wip1_5:
 - edx
 ---
 
 # 📁 Gameplay
 
-💣 ***[Bombs vs. Sleepwalkers](/README.md)***
+💣 ***[Bombs vs. Sleepwalkers][home]***
 
-- [Devices and Gadgets](/gameplay/devices_gadgets/readme.md)
-- [Items](/gameplay/items/readme.md)
-- [Levels](/gameplay/levels/readme.md)
-- [Vehicles](/gameplay/vehicles/readme.md)
-- [Weapons](/gameplay/weapons/readme.md)
+- [Devices and Gadgets][devices]
+- [Items][items]
+- [Levels][levels]
+- [Vehicles][vehicles]
+- [Weapons][weapons]
+
+[home]: /README.md
+[devices]: /gameplay/devices_gadgets/readme.md
+[items]: /gameplay/items/readme.md
+[levels]: /gameplay/levels/readme.md
+[vehicles]: /gameplay/vehicles/readme.md
+[weapons]: /gameplay/weapons/readme.md

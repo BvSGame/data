@@ -1,9 +1,12 @@
 ---
-revised: 0.1.5.8
+revised: 0.1.5.15
 contributors_wip1_5:
 - edx
 ---
 
 # 📁 Vehicles
 
-💣 ***[Bombs vs. Sleepwalkers](/README.md)** ➔ [Gameplay](/gameplay/readme.md)*
+💣 ***[Bombs vs. Sleepwalkers][home]** ➔ [Gameplay][gameplay]*
+
+[home]: /README.md
+[gameplay]: /gameplay/readme.md

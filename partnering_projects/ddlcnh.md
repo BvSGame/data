@@ -1,9 +1,12 @@
 ---
-revised: 0.1.5.8
+revised: 0.1.5.15
 contributors_wip1_5:
 - edx
 ---
 
 # 📄 Doki Doki Literature Club! New Heading
 
-💣 ***[Bombs vs. Sleepwalkers](/README.md)** ➔ [Partnering Projects](/partnering_projects/readme.md)*
+💣 ***[Bombs vs. Sleepwalkers][home]** ➔ [Partnering Projects][partnproj]*
+
+[home]: /README.md
+[partnproj]: /partnering_projects/readme.md

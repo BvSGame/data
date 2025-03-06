@@ -1,9 +1,12 @@
 ---
-revised: 0.1.5.8
+revised: 0.1.5.15
 contributors_wip1_5:
 - edx
 ---
 
 # 📄 Bombs vs. Sleepwalkers: Origins
 
-💣 ***[Bombs vs. Sleepwalkers](/README.md)** ➔ [Games](/games/readme.md)*
+💣 ***[Bombs vs. Sleepwalkers][home]** ➔ [Games][games]*
+
+[home]: /README.md
+[games]: /games/readme.md

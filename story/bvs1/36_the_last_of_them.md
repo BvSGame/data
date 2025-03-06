@@ -1,12 +1,18 @@
 ---
-revised: 0.1.5.8
+revised: 0.1.5.15
 contributors_wip1_5:
 - edx
 ---
 
 # 📄 Chapter 36: The Last of Them
 
-💣 ***[Bombs vs. Sleepwalkers](/README.md)** ➔ [Story and Lore](/story/readme.md) ➔ [BvS 1](/story/bvs1/readme.md)*
+💣 ***[Bombs vs. Sleepwalkers][home]** ➔ [Story and Lore][story] ➔ [BvS 1][story_bvs1]*
 
-| [◀️ Jurassic Megalo-Blastic](/story/bvs1/35_jurassic_megalo_blastic.md) | [Cube-Simulator ▶️](/story/bvs1/37_cube_simulator.md) |
+| [◀️ Jurassic Megalo-Blastic][prev] | [Cube-Simulator ▶️][next] |
 | --: | :-- |
+
+[home]: /README.md
+[prev]: /story/bvs1/35_jurassic_megalo_blastic.md
+[next]: /story/bvs1/37_cube_simulator.md
+[story]: /story/readme.md
+[story_bvs1]: /story/bvs1/readme.md

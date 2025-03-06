@@ -1,10 +1,10 @@
 ---
-revised: 0.1.5.8
+revised: 0.1.5.15
 ---
 
 # 📄 Ways to Contact
 
-💣 ***[Bombs vs. Sleepwalkers](/README.md)***
+💣 ***[Bombs vs. Sleepwalkers][home]***
 
 ## Communities
 
@@ -19,7 +19,7 @@ revised: 0.1.5.8
 ### liledix4
 
 - **BEST WAY: Discord username:** `liledix4`
-  - You can try [direct link](https://discord.com/users/472184744814051330), but it may not work.
+  - You can try [direct link][discord_dm], but it may not work.
 - **Bluesky:** <https://bsky.app/profile/liledix.com>
 - **Twitter/X:** <https://x.com/liledix4>
 - **Email:**
@@ -27,3 +27,6 @@ revised: 0.1.5.8
   - <liledix4@proton.me>
   - <liledix4@musician.org>
   - <liledix4@gmail.com>
+
+[home]: /README.md
+[discord_dm]: https://discord.com/users/472184744814051330

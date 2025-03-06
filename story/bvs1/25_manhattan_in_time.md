@@ -1,12 +1,18 @@
 ---
-revised: 0.1.5.8
+revised: 0.1.5.15
 contributors_wip1_5:
 - edx
 ---
 
 # 📄 Chapter 25: Manhattan in Time
 
-💣 ***[Bombs vs. Sleepwalkers](/README.md)** ➔ [Story and Lore](/story/readme.md) ➔ [BvS 1](/story/bvs1/readme.md)*
+💣 ***[Bombs vs. Sleepwalkers][home]** ➔ [Story and Lore][story] ➔ [BvS 1][story_bvs1]*
 
-| [◀️ Noir Au Revoir](/story/bvs1/24_noir_au_revoir.md) | [The Rise of Machinery ▶️](/story/bvs1/26_the_rise_of_machinery.md) |
+| [◀️ Noir Au Revoir][prev] | [The Rise of Machinery ▶️][next] |
 | --: | :-- |
+
+[home]: /README.md
+[prev]: /story/bvs1/24_noir_au_revoir.md
+[next]: /story/bvs1/26_the_rise_of_machinery.md
+[story]: /story/readme.md
+[story_bvs1]: /story/bvs1/readme.md

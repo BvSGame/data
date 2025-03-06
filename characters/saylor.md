@@ -1,5 +1,5 @@
 ---
-revised: 0.1.5.8
+revised: 0.1.5.15
 contributors_wip1_5:
 - edx
 contributors_wip1_0:
@@ -9,7 +9,7 @@ contributors_wip1_0:
 
 # 📄 Saylor
 
-💣 ***[Bombs vs. Sleepwalkers](/README.md)** ➔ [Characters](/characters/readme.md)*
+💣 ***[Bombs vs. Sleepwalkers][home]** ➔ [Characters][characters]*
 
 - ***Written:** February 28 - March 1, 2025.*
 - ***Revised:** March 1, 2025.*
@@ -40,7 +40,7 @@ contributors_wip1_0:
 
 - In her outfits, Saylor is most comfortable sticking to the concept of **“female masculinity”** – she prefers to choose clothing that reads as masculine but only fits women. She embraces unisex/androgynous clothing as well.
 - **Handbag**. Big enough (but not oversized) to carry tablet (see [below](#7-gadgets-and-devices)) and some tools. Stylish in a way.
-  - Not to be confused with **purse** – see [preneLOVE blog post](https://prenelove.ca/blogs/news/handbag-vs-purse), [Latico Leathers blog post](https://laticoleathers.com/en-gb/blogs/news/purses-vs-handbags) and [Wikipedia article](https://en.wikipedia.org/wiki/Handbag). Purse is a confusing word that is primarily associated with a small bag that is larger than a wallet. Handbag is less ambiguous, despite being used chiefly in United Kingdom and Europe.
+  - Not to be confused with **purse** – see [preneLOVE blog post][def_purse1], [Latico Leathers blog post][def_purse2] and [Wikipedia article][def_purse3]. Purse is a confusing word that is primarily associated with a small bag that is larger than a wallet. Handbag is less ambiguous, despite being used chiefly in United Kingdom and Europe.
 - It’s not rare that she wears **fingerless gloves**. Color could vary.
 - A **simple necklace** and some **bracelets**.
 - **Earrings** – no specifics.
@@ -109,3 +109,9 @@ contributors_wip1_0:
 - **Rick** – childhood friend. Tech university coursemate, Saylor’s right-hand man.
 - **Toni** – a close friend Saylor met in 1860 while time-traveling. Tomboy girl from the Wild West, younger than Saylor. Sharpshooter and gunslinger.
 - **Darkrock** – a scientist of unknown origins who usually operates far away from Earth. Saylor considers him an archenemy, but in reality, the matters are far more complex.
+
+[home]: /README.md
+[characters]: /characters/readme.md
+[def_purse1]: https://prenelove.ca/blogs/news/handbag-vs-purse
+[def_purse2]: https://laticoleathers.com/en-gb/blogs/news/purses-vs-handbags
+[def_purse3]: https://en.wikipedia.org/wiki/Handbag

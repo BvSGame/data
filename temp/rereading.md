@@ -1,9 +1,12 @@
 ---
-revised: 0.1.5.8
+revised: 0.1.5.15
 contributors_wip1_5:
 - edx
 ---
 
 # 📄 Re-reading of old ideas
 
-💣 ***[Bombs vs. Sleepwalkers](/README.md)** ➔ [Temp](/temp/readme.md)*
+💣 ***[Bombs vs. Sleepwalkers][home]** ➔ [Temp][temp]*
+
+[home]: /README.md
+[temp]: /temp/readme.md

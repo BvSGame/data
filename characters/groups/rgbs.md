@@ -1,5 +1,5 @@
 ---
-revised: 0.1.5.11
+revised: 0.1.5.15
 contributors_wip1_5:
 - edx
 contributors_wip1_0:
@@ -8,4 +8,8 @@ contributors_wip1_0:
 
 # 📄 RGBs
 
-💣 ***[Bombs vs. Sleepwalkers](/README.md)** ➔ [Characters](/characters/readme.md) ➔ [Groups](/characters/groups/readme.md)*
+💣 ***[Bombs vs. Sleepwalkers][home]** ➔ [Characters][characters] ➔ [Groups][char_groups]*
+
+[home]: /README.md
+[characters]: /characters/readme.md
+[char_groups]: /characters/groups/readme.md

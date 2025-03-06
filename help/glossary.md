@@ -1,14 +1,16 @@
 ---
-revised: 0.1.5.8
+revised: 0.1.5.15
 contributors_wip1_5:
 - edx
 ---
 
 # 📄 Glossary
 
-💣 ***[Bombs vs. Sleepwalkers](/README.md)** ➔ [Help](/help/readme.md)*
+💣 ***[Bombs vs. Sleepwalkers][home]** ➔ [Help][help]*
 
 ## Specific to BvS
+
+## General terms
 
 ## Design and art
 
@@ -17,6 +19,8 @@ contributors_wip1_5:
 ## Music
 
 ## Software development
+
+- **Linting** – the process of analyzing source code and identifying possible programmatic or stylistic problems. Usually done with the software tools that detect possible problems automatically.
 
 ## Sound design
 
@@ -29,3 +33,6 @@ contributors_wip1_5:
 ## Sources
 
 - <https://en.wikipedia.org/wiki/Glossary_of_video_game_terms>
+
+[home]: /README.md
+[help]: /help/readme.md
