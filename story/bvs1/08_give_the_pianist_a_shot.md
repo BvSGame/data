@@ -1,5 +1,5 @@
 ---
-revised: 0.1.5.15
+revised: 0.1.5.17
 contributors_wip1_5:
 - edx
 ---
@@ -10,6 +10,8 @@ contributors_wip1_5:
 
 | [◀️ Caught in 2K][prev] | [Security Breach ▶️][next] |
 | --: | :-- |
+
+****
 
 [home]: /README.md
 [prev]: /story/bvs1/07_caught_in_2k.md

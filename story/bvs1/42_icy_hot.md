@@ -1,5 +1,5 @@
 ---
-revised: 0.1.5.15
+revised: 0.1.5.17
 contributors_wip1_5:
 - edx
 ---
@@ -10,6 +10,8 @@ contributors_wip1_5:
 
 | [◀️ It’s Time to Stop][prev] | [Wrapping by Warping ▶️][next] |
 | --: | :-- |
+
+****
 
 [home]: /README.md
 [prev]: /story/bvs1/41_its_time_to_stop.md

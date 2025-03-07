@@ -1,5 +1,5 @@
 ---
-revised: 0.1.5.15
+revised: 0.1.5.17
 contributors_wip1_5:
 - edx
 ---
@@ -10,6 +10,8 @@ contributors_wip1_5:
 
 | [◀️ Twice Upon a Time][prev] | [No Sun at the Beach ▶️][next] |
 | --: | :-- |
+
+****
 
 [home]: /README.md
 [prev]: /story/bvs1/21_twice_upon_a_time.md

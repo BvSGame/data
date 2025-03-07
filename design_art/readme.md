@@ -1,5 +1,5 @@
 ---
-revised: 0.1.5.15
+revised: 0.1.5.17
 contributors_wip1_5:
 - edx
 ---
@@ -7,6 +7,8 @@ contributors_wip1_5:
 # 📁 Design and Art
 
 💣 ***[Bombs vs. Sleepwalkers][home]***
+
+****
 
 - [Document for Artists][doc4artists]
 - [Fonts][fonts]

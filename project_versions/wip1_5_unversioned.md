@@ -1,5 +1,5 @@
 ---
-revised: 0.1.5.15
+revised: 0.1.5.17
 contributors_wip1_5:
 - edx
 ---
@@ -10,6 +10,8 @@ contributors_wip1_5:
 
 | [◀️ 1.0][prev] | [1.5: Feb 2025 ▶️][next] |
 | --: | :-- |
+
+****
 
 [home]: /README.md
 [prev]: /project_versions/wip1_0.md

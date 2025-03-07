@@ -1,5 +1,5 @@
 ---
-revised: 0.1.5.15
+revised: 0.1.5.17
 contributors_wip1_5:
 - edx
 contributors_wip1_0:
@@ -12,13 +12,15 @@ contributors_legacy:
 
 💣 ***[Bombs vs. Sleepwalkers][home]***
 
-- [Bombs vs. Sleepwalkers][bvs1] *(the first game)*
-- [Bombs vs. Sleepwalkers 2][bvs2]
-- [Bombs vs. Sleepwalkers: Origins][bvso]
-- [Bombs vs. Sleepwalkers 3D][bvs3d]
+****
+
+- [Music in *Bombs vs. Sleepwalkers*][music_bvs1] (the game)
+- [Music in *Bombs vs. Sleepwalkers 2*][music_bvs2]
+- [Music in *Bombs vs. Sleepwalkers: Origins*][music_bvso]
+- [Music in *Bombs vs. Sleepwalkers 3D*][music_bvs3d]
 
 [home]: /README.md
-[bvs1]: /music/bvs1/readme.md
-[bvs2]: /music/bvs2/readme.md
-[bvso]: /music/bvso/readme.md
-[bvs3d]: /music/bvs3d/readme.md
+[music_bvs1]: /music/bvs1/readme.md
+[music_bvs2]: /music/bvs2/readme.md
+[music_bvso]: /music/bvso/readme.md
+[music_bvs3d]: /music/bvs3d/readme.md

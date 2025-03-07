@@ -1,5 +1,5 @@
 ---
-revised: 0.1.5.15
+revised: 0.1.5.17
 contributors_wip1_5:
 - edx
 ---
@@ -8,10 +8,12 @@ contributors_wip1_5:
 
 💣 ***[Bombs vs. Sleepwalkers][home]***
 
-- [Bombs vs. Sleepwalkers][bvs1] *(the first game)*
-- [Bombs vs. Sleepwalkers 2][bvs2]
-- [Bombs vs. Sleepwalkers: Origins][bvso]
-- [Bombs vs. Sleepwalkers 3D][bvs3d]
+****
+
+- [*Bombs vs. Sleepwalkers*][bvs1] (the game)
+- [*Bombs vs. Sleepwalkers 2*][bvs2]
+- [*Bombs vs. Sleepwalkers: Origins*][bvso]
+- [*Bombs vs. Sleepwalkers 3D*][bvs3d]
 
 [home]: /README.md
 [bvs1]: /games/bvs1.md

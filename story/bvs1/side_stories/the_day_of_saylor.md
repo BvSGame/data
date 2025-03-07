@@ -1,5 +1,5 @@
 ---
-revised: 0.1.5.15
+revised: 0.1.5.17
 contributors_wip1_5:
 - edx
 ---
@@ -7,6 +7,8 @@ contributors_wip1_5:
 # 📄 The Day of Saylor
 
 💣 ***[Bombs vs. Sleepwalkers][home]** ➔ [Story and Lore][story] ➔ [BvS 1][story_bvs1] ➔ [Side stories][story_bvs1_side]*
+
+****
 
 [home]: /README.md
 [story]: /story/readme.md

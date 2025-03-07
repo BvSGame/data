@@ -16,6 +16,16 @@ Technically, documentation and wiki in one place, designed to be parsed in a var
 >
 > Since February 2025, it was decided to gradually publish information that had previously been private. We still strictly adhere to the non-disclosure of spoilers and information that reveals vital plot and gameplay points before the proper media release.
 
+- [🪧 **Introduction**][intro] – what this whole project is about.
+- [🎮 **Games**][games] – summaries about every game we’re working on.
+- [❓ **F.A.Q.**][faq] – if you have a question, we have an answer.
+- [💬 **Ways to Contact**][contact] – how you can get in touch with us.
+- [💰 **Donate**][donate] – if you have the financial means and if you want us to grow!
+- [🧑‍💻 **Contributors**][contributors] – the list of the most valuable people!
+- [🔢 **Project Versions**][projver] – what’s changed and what’s planned.
+
+****
+
 - [👤 **Characters**][characters] – including mini-bosses and sleepwalkers.
 - [💻 **Coding and Development**][coding] – including code snippets, coding practices, game engines, APIs, libraries and programming languages.
 - [💁 **Collaboration**][collab] – how we’re working together.
@@ -24,7 +34,6 @@ Technically, documentation and wiki in one place, designed to be parsed in a var
 - [🎨 **Design and Art**][designart] – everything you need to know about graphics and visuals. Includes references.
 - [📦 **Distribution**][distribution] – how and where we release games.
 - [👾 **Gameplay**][gameplay] – game design, levels, detailed parameters of each game object.
-- [🎮 **Games**][games] – summaries about every game we’re working on.
 - [🛟 **Help**][help] – feeling lost? We’ve got it covered.
 - [💡 **Inspirations**][inspirations] – popular franchises and titles we may draw ideas from.
 - [🗺️ **Locations and Time Periods**][locations] – including space objects and universes. Not just game locations, but all the places that appear throughout the story.
@@ -33,18 +42,13 @@ Technically, documentation and wiki in one place, designed to be parsed in a var
 - [🎵 **Music**][music] – list of tracks and the practices of composing.
 - [📒 **Notes**][notes] – essentially, a blog for everything that is not necesarily relevant to *BvS*.
 - [🤝 **Partnering Projects**][partneringproj] – you help us, we help you.
-- [🔢 **Project Versions**][projver] – what's changed and what's planned.
 - [📖 **Story and Lore**][story] – chapters, scripts, plot structures, writing guidelines.
 - [🎙️ **Voice Acting**][voiceacting] – how to play characters in voiceover. And references!
 
 ****
 
 - [🤖 **AI**][ai] – how we handle the topic of artificial intelligence.
-- [💬 **Ways to Contact**][contact] – how you can get in touch with us.
-- [💰 **Donate**][donate] – if you have the financial means and if you want us to grow!
-- [🧑‍💻 **Contributors**][contributors] – the list of the most valuable people!
 - [⚙️ **Data Maintenance**][datamaintenance] – how we handle this particular repository.
-- [❓ **F.A.Q.**][faq] – if you have a question, we have an answer.
 - [🪞 **Mirrors**][mirrors] – all places where content may be officially duplicated, either for convenience or safety.
 - [💙 **Thank You!**][thankyou] – the words of gratitude!
 
@@ -94,6 +98,7 @@ Also. No matter if your questions are simple or complicated. Weird or make perfe
 [github_pr]: https://github.com/BvSGame/data/pulls
 [help]: /help/readme.md
 [inspirations]: /inspirations/readme.md
+[intro]: /intro.md
 [json]: /json/readme.md
 [json_index]: /json/index.json
 [locations]: /locations/readme.md

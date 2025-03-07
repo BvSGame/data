@@ -1,12 +1,14 @@
 ---
-revised: 0.1.5.15
+revised: 0.1.5.17
 contributors_wip1_5:
 - edx
 ---
 
-# 📁 Story of Bombs vs. Sleepwalkers (the first game)
+# 📁 Story of *Bombs vs. Sleepwalkers* (the game)
 
 💣 ***[Bombs vs. Sleepwalkers][home]** ➔ [Story and Lore][story]*
+
+****
 
 | [BvS 2 ▶️][story_bvs2] |
 | :-- |

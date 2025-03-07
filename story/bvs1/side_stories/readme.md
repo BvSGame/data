@@ -1,5 +1,5 @@
 ---
-revised: 0.1.5.15
+revised: 0.1.5.17
 contributors_wip1_5:
 - edx
 ---
@@ -7,6 +7,8 @@ contributors_wip1_5:
 # 📁 Side stories
 
 💣 ***[Bombs vs. Sleepwalkers][home]** ➔ [Story and Lore][story] ➔ [BvS 1][story_bvs1]*
+
+****
 
 ## List of side stories
 
