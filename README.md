@@ -1,5 +1,5 @@
 ---
-revised: 0.1.5.16
+revised: 0.1.5.17
 contributors_wip1_5:
 - edx
 ---
@@ -15,6 +15,8 @@ Technically, documentation and wiki in one place, designed to be parsed in a var
 > This repository contains blank pages. LOTS of them. It doesn’t mean there was nothing to write. We had an impressive number of written ideas unfortunately scattered across many private places online (even various messengers and various Discord servers).
 >
 > Since February 2025, it was decided to gradually publish information that had previously been private. We still strictly adhere to the non-disclosure of spoilers and information that reveals vital plot and gameplay points before the proper media release.
+
+**Visit [bvsgame.github.io](https://bvsgame.github.io) and [bvs.liledix.com](https://bvs.liledix.com)!**
 
 - [🪧 **Introduction**][intro] – what this whole project is about.
 - [🎮 **Games**][games] – summaries about every game we’re working on.
