@@ -1,0 +1,4 @@
+---
+aliases:
+  - Stock images
+---
