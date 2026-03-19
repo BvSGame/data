@@ -7,4 +7,6 @@ aliases:
   - FLOSS
   - Open source
   - Libre
+tags:
+  - EmptyPages
 ---

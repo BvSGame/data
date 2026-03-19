@@ -4,4 +4,6 @@ aliases:
   - Locations
   - Time period
   - Time periods
+tags:
+  - EmptyPages
 ---

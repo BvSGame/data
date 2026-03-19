@@ -1,4 +1,6 @@
 ---
 aliases:
   - artifact
+tags:
+  - EmptyPages
 ---

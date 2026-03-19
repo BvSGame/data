@@ -1,4 +1,6 @@
 ---
 aliases:
   - Godot
+tags:
+  - EmptyPages
 ---

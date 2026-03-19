@@ -1,4 +1,6 @@
 ---
 aliases:
   - Universe
+tags:
+  - EmptyPages
 ---

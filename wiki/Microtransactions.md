@@ -1,4 +1,6 @@
 ---
 aliases:
   - MTX
+tags:
+  - EmptyPages
 ---

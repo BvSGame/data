@@ -1,4 +1,6 @@
 ---
 aliases:
   - Revolt
+tags:
+  - EmptyPages
 ---

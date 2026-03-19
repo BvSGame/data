@@ -4,4 +4,6 @@ aliases:
   - Adobe After Effects
   - Premiere Pro
   - Adobe Premiere Pro
+tags:
+  - EmptyPages
 ---

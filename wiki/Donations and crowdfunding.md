@@ -4,4 +4,6 @@ aliases:
   - Donation
   - Donations
   - Crowdfunding
+tags:
+  - EmptyPages
 ---

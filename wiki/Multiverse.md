@@ -1,4 +1,6 @@
 ---
 aliases:
   - multiverse
+tags:
+  - EmptyPages
 ---

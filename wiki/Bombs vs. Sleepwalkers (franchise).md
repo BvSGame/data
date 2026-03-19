@@ -5,4 +5,6 @@ aliases:
   - Bombs vs. Sleepwalkers
   - franchise
   - Franchise
+tags:
+  - EmptyPages
 ---

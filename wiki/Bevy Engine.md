@@ -1,4 +1,6 @@
 ---
 aliases:
   - Bevy
+tags:
+  - EmptyPages
 ---

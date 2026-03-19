@@ -9,4 +9,6 @@ aliases:
   - Libre
   - Copyright
   - Copyleft
+tags:
+  - EmptyPages
 ---

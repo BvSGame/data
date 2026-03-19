@@ -1,4 +1,6 @@
 ---
 aliases:
   - Soundtrack
+tags:
+  - EmptyPages
 ---

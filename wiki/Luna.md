@@ -1,4 +1,5 @@
 ---
 tags:
   - Aliases
+  - EmptyPages
 ---

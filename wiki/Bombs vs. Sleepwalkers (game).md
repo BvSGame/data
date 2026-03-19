@@ -1,4 +1,6 @@
 ---
 aliases:
   - BvS
+tags:
+  - EmptyPages
 ---

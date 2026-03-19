@@ -15,7 +15,11 @@ Overall style of *Medley* is **primarily orchestral**, however synthesizers and 
 
 ## Goals of *Medley*
 
+#TBA
+
 ## Production challenges and postponements
+
+#TBA
 
 ## Track list
 
