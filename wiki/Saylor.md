@@ -1,3 +1,7 @@
+---
+tags:
+  - Characters
+---
 **Saylor** is a [protagonist](Protagonist.md) of [*Bombs vs. Sleepwalkers* franchise](Bombs%20vs.%20Sleepwalkers%20(franchise).md).
 
 | Information                       | Value                                              |

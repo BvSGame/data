@@ -1,3 +1,7 @@
+---
+tags:
+  - Characters
+---
 **Toni** (short for Antoinette) is a sharpshooter from [Wild West](Wild%20West.md).
 
 | Information                       | Value                                        |

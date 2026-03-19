@@ -1,0 +1,4 @@
+---
+aliases:
+  - tech university
+---
