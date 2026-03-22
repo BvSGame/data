@@ -1,9 +1,9 @@
 ---
 tags:
-  - Characters
   - EmptyPages
+  - Characters
+version: 0.1.503.23
 contributors:
   - BlazingZephyr
   - liledix4
-version: 0.1.502.23
 ---

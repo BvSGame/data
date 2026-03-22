@@ -1,6 +1,10 @@
 ---
 tags:
   - "#Characters"
+version: 0.1.504.0
+contributors:
+  - BlazingZephyr
+  - liledix4
 ---
 **Jenesis** is an [antagonist](Antagonist.md) of *[Bombs vs. Sleepwalkers 2](Bombs%20vs.%20Sleepwalkers%202.md)*, however, her first appearance takes place in [the first installment](Bombs%20vs.%20Sleepwalkers%20(game).md).
 
