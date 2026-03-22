@@ -1,0 +1,10 @@
+---
+tags:
+  - EmptyPages
+  - RealWorldTerms
+contributors:
+  - liledix4
+version: 0.1.504.18
+aliases:
+  - demo
+---

@@ -6,6 +6,20 @@ aliases:
   - Gemini
   - Google Gemini
   - Sora
+  - generative AI
+  - artificial intelligence
+  - Microsoft Copilot
+  - Slopilot
+  - Microslop
+  - slop
+  - Slop
+  - GenAI
+  - democratization
+  - Democratization
+  - AI training
+  - neural network
+  - Neural network
+  - LLM
 ---
 **Artificial intelligence** (AI for short).
 
