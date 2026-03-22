@@ -8,6 +8,28 @@ Welcome to ***Bombs vs. Sleepwalkers Wiki***, your first stop for everything you
 
 You can start your journey by **using the search bar** or **[going through the list of tags](tags)**. We use tags as **categories where pages belong**.
 
+## Sources and mirrors of wiki
+
+Official addresses of *Bombs vs. Sleepwalkers Wiki* are:
+
+- https://wiki.bvsga.me – custom wiki (in production as of March 22, 2026).
+- https://quartz.bvsga.me – Quartz-powered wiki.
+
+### Official mirrors
+
+You can find official mirrors of *Bombs vs. Sleepwalkers Wiki* here:
+
+- https://bvsgame.github.io/quartz
+- https://bvsgame.github.io/wiki
+
+### Run your own mirror
+
+You’re free to run your own unofficial mirror if you clone following repositories:
+
+- [GitHub: BvSGame/quartz](https://github.com/BvSGame/quartz)
+
+Coming soon to Codeberg and sourcehut.
+
 ## Quick information about *Bombs vs. Sleepwalkers*
 
 You can read more here: [*Bombs vs. Sleepwalkers* (franchise)](Bombs%20vs.%20Sleepwalkers%20(franchise).md).
