@@ -52,6 +52,8 @@ writeFileSync(
   `---
 tags:
   - EmptyPages
+contributors:
+  - liledix4
 version: ${ output_VersionObject.version }
 ---
 `

@@ -7,7 +7,7 @@ tags:
   - Music
 contributors:
   - liledix4
-version: 0.1.504.0
+version: 0.1.504.13
 ---
 _**Bombs vs. Sleepwalkers Medley**_, shortened as _**BvS Medley**_ or simply _**Medley**_, is an ongoing musical event by [liledix⁴](liledix4.md).
 
@@ -16,6 +16,8 @@ Full version of *Medley* is planned to have 29 tracks, with overall length of ov
 Majority of compositions are **remasters**.
 
 Overall style of *Medley* is **primarily orchestral**, however synthesizers and electric guitars are also prominent.
+
+Playlist with all currently released parts of *Medley* can be found on [YouTube](https://www.youtube.com/playlist?list=PLdRF4P3gPj8Awnfc0aYlgJ1VjRmo5_yjB).
 
 ## Goals of *Medley*
 
