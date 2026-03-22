@@ -3,6 +3,9 @@
 ## Refreshed 1.5 (2026)
 
 Day 4 | 0.1.504 | March 22, 2026
+  Data repository:
+    Brand new index page.
+    ".htaccess" for browsing files in the mirrors.
   Version history is reintroduced.
 
 Day 3 | 0.1.503 | March 21, 2026

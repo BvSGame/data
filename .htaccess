@@ -1,0 +1,3 @@
+Options +Indexes +FollowSymLinks
+Require all granted
+IndexOptions +FancyIndexing +HTMLTable +NameWidth=* +DescriptionWidth=*
