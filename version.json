@@ -1,12 +1,12 @@
 {
-  "version": "0.1.504.7",
+  "version": "0.1.504.10",
   "date": "2026-03-22",
-  "time": "07:11",
-  "timestamp": 1774163505913,
+  "time": "10:08",
+  "timestamp": 1774174119157,
   "revision": 0,
   "milestone": 1,
   "milestoneStage": 5,
-  "milestoneStageVersion": 4,
+  "milestoneStageDay": 4,
   "milestoneVersion": 504,
-  "hour": 7
+  "hour": 10
 }

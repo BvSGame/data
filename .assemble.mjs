@@ -1,5 +1,5 @@
 import { readFileSync, writeFileSync } from 'fs';
-import { config } from './!config.mjs';
+import { config } from './.config.mjs';
 
 const zeroPad = (num, places) => String( num ).padStart( places, '0' );
 
@@ -20,16 +20,16 @@ let output_VersionObject = {
   revision: config.version.revision,
   milestone: config.version.milestone,
   milestoneStage: config.version.milestoneStage,
-  milestoneStageVersion: null,
+  milestoneStageDay: null,
   milestoneVersion: null,
   hour: hour,
 };
 
-output_VersionObject.milestoneStageVersion = initial_VersionObject.milestoneStageVersion;
+output_VersionObject.milestoneStageDay = initial_VersionObject.milestoneStageDay;
 if ( process.argv[ 2 ] === 'versionbump' )
-  output_VersionObject.milestoneStageVersion++;
+  output_VersionObject.milestoneStageDay++;
 output_VersionObject.milestoneVersion = parseInt(
-  `${ output_VersionObject.milestoneStage }${ zeroPad( output_VersionObject.milestoneStageVersion, 2 ) }`
+  `${ output_VersionObject.milestoneStage }${ zeroPad( output_VersionObject.milestoneStageDay, 2 ) }`
 );
 output_VersionObject.version = `${ output_VersionObject.revision }.${ output_VersionObject.milestone }.${ output_VersionObject.milestoneVersion }.${ output_VersionObject.hour }`;
 
