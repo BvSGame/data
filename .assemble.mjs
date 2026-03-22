@@ -62,6 +62,6 @@ writeFileSync(
     .replaceAll( /(?<=<data id="data_version">).*?(?=<\/data>)/g, output_VersionObject.version )
     .replaceAll( /(?<=<data id="data_revision">).*?(?=<\/data>)/g, output_VersionObject.revision )
     .replaceAll( /(?<=<data id="data_milestone">).*?(?=<\/data>)/g, `${ output_VersionObject.milestone }.${ output_VersionObject.milestoneStage }` )
-    .replaceAll( /(?<=<data id="data_updatetime">).*?(?=<\/data>)/g, `${ output_VersionObject.date } ${ output_VersionObject.time }` )
+    .replaceAll( /(?<=<data id="data_updatetime">).*?(?=<\/data>)/g, `${ output_VersionObject.date } ${ output_VersionObject.time } UTC` )
     .replaceAll( /(?<=<data id="data_timestamp">).*?(?=<\/data>)/g, output_VersionObject.timestamp )
 );
