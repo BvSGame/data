@@ -27,6 +27,32 @@ Day 1 | 0.1.5.111 | March 19, 2026
 
 ## Initial 1.5 (2025)
 
+0.1.5.17 | March 7, 2025
+
+0.1.5.16 | March 6, 2025
+
+0.1.5.15 | March 3-5, 2025
+
+0.1.5.14 | March 3, 2025
+
+0.1.5.13 | March 3, 2025
+
+0.1.5.12 | March 3, 2025
+
+0.1.5.11 | March 3, 2025
+
+0.1.5.10 | March 2, 2025
+
+0.1.5.9 | March 2, 2025
+
+0.1.5.8 | March 1-2, 2025
+
+0.1.5.7 | March 1, 2025
+
+0.1.5.6 | March 1, 2025
+
+0.1.5.5 | March 1, 2025
+
 0.1.5.4 | February 21, 2026
   Data update: <https://github.com/BvSGame/data/compare/0.1.5.3...0.1.5.4>
   **Scripts (Private)** are properly uploaded! ALL of them!

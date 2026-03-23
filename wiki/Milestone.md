@@ -1,6 +1,0 @@
----
-tags:
-  - EmptyPages
-aliases:
-  - WIP
----
