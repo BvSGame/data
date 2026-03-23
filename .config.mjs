@@ -10,6 +10,7 @@ export const config = {
     dataIndexPage: './index.html',
     version: {
       min: './version_new',
+      minClassic: './version',
       json: './version.json',
     },
     wiki: {

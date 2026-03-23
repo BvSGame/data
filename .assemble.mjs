@@ -48,6 +48,10 @@ writeFileSync(
   output_VersionObject.version
 );
 writeFileSync(
+  config.filePath.version.minClassic,
+  `${ output_VersionObject.revision }.${ output_VersionObject.milestone }.${ output_VersionObject.milestoneStage }.${ output_VersionObject.milestoneStageDay }${ output_VersionObject.hour }`
+);
+writeFileSync(
   config.filePath.wiki.template.newNote,
   `---
 tags:
