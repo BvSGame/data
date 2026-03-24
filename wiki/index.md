@@ -63,3 +63,6 @@ Or, you can create **issues** or **pull requests** for the “data” repository
 ## License
 
 Quartz version of *Bombs vs. Sleepwalkers Wiki* consists of two assembled parts: Quartz itself and “wiki” directory from “data” repository of *BvS*.
+
+- Quartz repository is licensed under [MIT License](https://github.com/BvSGame/quartz/blob/v4/LICENSE.txt).
+- *BvS* “data” repository is licensed under [GNU Affero General Public License v3.0](https://github.com/BvSGame/data/blob/main/LICENSE).
