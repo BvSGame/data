@@ -10,6 +10,13 @@ Welcome to ***Bombs vs. Sleepwalkers Wiki***, your first stop for everything you
 
 You can start your journey by **using the search bar** or **[going through the list of tags](tags)**. We use tags as **categories where pages belong**.
 
+> [!WARNING] Note on Quartz version of *BvS Wiki*
+> Unfortunately, since March 24, 2026, [Quartz](Quartz.md) (a system for generating static webpages out of Markdown files) proved to be unreliable in building complex wikis. On some occasions, it may be possible that pages reload themselves infinitely. The worst in this situation is: it’s not always possible to fix bugs or track down issues created by Quartz itself, especially due to sheer complexity of Quartz (360 Node.js packages as dependencies? Try to pin down where the problem lies!)
+> 
+> Therefore, the decision has been made to begin creating a purely custom wiki system from scratch.  [liledix⁴](liledix4.md) announced it in the [YouTube community post](https://www.youtube.com/post/UgkxP1wzfITy7vj5cnaGuGWZ4dZj3FR4BGNP).
+> 
+> Quartz version of *BvS Wiki* will be maintained passively. Keep in mind that now there’s a focus on creating a custom experience. It takes time, but for the sake of reliability, it has to be done. No more ready-to-go solutions, we had enough.
+
 ## Sources and mirrors of wiki
 
 Official addresses of *Bombs vs. Sleepwalkers Wiki* are:
