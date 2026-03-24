@@ -1,7 +1,7 @@
 ---
 contributors:
   - liledix4
-version: 0.1.506.6
+version: 0.1.506.7
 aliases:
   - logo
   - Bombs vs. Sleepwalkers Logo
@@ -11,7 +11,7 @@ tags:
 ---
 ***Bombs vs. Sleepwalkers Logo*** (*BvS Logo*) is the most visible piece of [branding](Branding.md) for the [franchise](Bombs%20vs.%20Sleepwalkers%20(franchise).md). Logo is designed by [liledix⁴](liledix4.md).
 
-Various versions of *BvS Logo* can be found on [Internet Archive](Internet%20Archive.md) page, particularly in this directory: https://archive.org/download/bvsgame/brand/logos/
+Various versions of *BvS Logo* can be found on [Internet Archive](Internet%20Archive.md) page, particularly in this directory: https://archive.org/download/bvsgame/brand/logos
 
 ## Known versions of *Bombs vs. Sleepwalkers Logo*
 
