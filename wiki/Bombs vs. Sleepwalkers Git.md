@@ -20,27 +20,29 @@ Normally, all updates for Git repositories are simultaneously pushed to multiple
 
 ## General notes
 
-- As an alternative to issues and discussions, sourcehut has a general mailing list for *Bombs vs. Sleepwalkers* project as a whole: https://lists.sr.ht/~liledix4/bvs
+- As an alternative to issues, pull requests and discussions, sourcehut has a general mailing list for *Bombs vs. Sleepwalkers* project as a whole: https://lists.sr.ht/~liledix4/bvs
 
 ## The list of Git repositories for *Bombs vs. Sleepwalkers*
 
 ### data
 
-| What you can do            | Codeberg                                                          | GitHub                                                                         | sourcehut                                  |
-| -------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------ |
-| Visit repository           | [Go](https://codeberg.org/BvS/data)                               | [Go](https://github.com/BvSGame/data)                                          | [Go](https://git.sr.ht/~liledix4/bvs_data) |
-| Clone repository           | `https://codeberg.org/BvS/data.git`                               | `https://github.com/BvSGame/data.git`                                          | `https://git.sr.ht/~liledix4/bvs_data`     |
-| Download repository as ZIP | [Direct download](https://codeberg.org/BvS/data/archive/main.zip) | [Direct download](https://github.com/BvSGame/data/archive/refs/heads/main.zip) | N/A                                        |
-| Create issues              | [Go](https://codeberg.org/BvS/data/issues/new)                    | [Go](https://github.com/BvSGame/data/issues/new)                               | *See [General notes](#General%20notes)*    |
+| What you can do                | Codeberg                                                          | GitHub                                                                         | sourcehut                                  |
+| ------------------------------ | ----------------------------------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------ |
+| **Visit repository**           | [Go](https://codeberg.org/BvS/data)                               | [Go](https://github.com/BvSGame/data)                                          | [Go](https://git.sr.ht/~liledix4/bvs_data) |
+| **Clone repository**           | `https://codeberg.org/BvS/data.git`                               | `https://github.com/BvSGame/data.git`                                          | `https://git.sr.ht/~liledix4/bvs_data`     |
+| **Download repository as ZIP** | [Direct download](https://codeberg.org/BvS/data/archive/main.zip) | [Direct download](https://github.com/BvSGame/data/archive/refs/heads/main.zip) | N/A                                        |
+| **Create issues**              | [Go](https://codeberg.org/BvS/data/issues/new)                    | [Go](https://github.com/BvSGame/data/issues/new)                               | *See [General notes](#General%20notes)*    |
+| **Create pull requests**       | [Go](https://codeberg.org/BvS/data/compare)                       | [Go](https://github.com/BvSGame/data/compare)                                  | *See [General notes](#General%20notes)*    |
 
 ### quartz
 
-| What you can do            | Codeberg         | GitHub                                                                         | sourcehut                               |
-| -------------------------- | ---------------- | ------------------------------------------------------------------------------ | --------------------------------------- |
-| Visit repository           | #UpcomingContent | [Go](https://github.com/BvSGame/quartz)                                        | #UpcomingContent                        |
-| Clone repository           | #UpcomingContent | `https://github.com/BvSGame/quartz.git`                                        | #UpcomingContent                        |
-| Download repository as ZIP | #UpcomingContent | [Direct download](https://github.com/BvSGame/quartz/archive/refs/heads/v4.zip) | N/A                                     |
-| Create issues              | #UpcomingContent | [Go](https://github.com/BvSGame/quartz/issues/new)                             | *See [General notes](#General%20notes)* |
+| What you can do                | Codeberg                                                          | GitHub                                                                         | sourcehut                               |
+| ------------------------------ | ----------------------------------------------------------------- | ------------------------------------------------------------------------------ | --------------------------------------- |
+| **Visit repository**           | [Go](https://codeberg.org/BvS/quartz)                             | [Go](https://github.com/BvSGame/quartz)                                        | #UpcomingContent                        |
+| **Clone repository**           | `https://codeberg.org/BvS/quartz.git`                             | `https://github.com/BvSGame/quartz.git`                                        | #UpcomingContent                        |
+| **Download repository as ZIP** | [Direct download](https://codeberg.org/BvS/quartz/archive/v4.zip) | [Direct download](https://github.com/BvSGame/quartz/archive/refs/heads/v4.zip) | N/A                                     |
+| **Create issues**              | [Go](https://codeberg.org/BvS/quartz/issues/new)                  | [Go](https://github.com/BvSGame/quartz/issues/new)                             | *See [General notes](#General%20notes)* |
+| **Create pull requests**       | [Go](https://codeberg.org/BvS/quartz/compare)                     | [Go](https://github.com/BvSGame/quartz/compare)                                | *See [General notes](#General%20notes)* |
 
 ### There are more repositories that are not mentioned here
 
