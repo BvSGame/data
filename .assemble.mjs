@@ -1,22 +1,45 @@
-import { readFileSync, writeFileSync } from 'fs';
+import { readFileSync, writeFile } from 'node:fs';
 import { config } from './.config.mjs';
 
 
-const zeroPad = (num, places) => String( num ).padStart( places, '0' );
+const zeroPad = ( num, places ) => String( num ).padStart( places, '0' );
 
 
-const initial_dataIndexPage = readFileSync( config.filePath.dataIndexPage, { encoding: 'utf-8' } );
-const initial_VersionObject = JSON.parse(
-  readFileSync( config.filePath.version.json, { encoding: 'utf-8' } )
-);
+const initial = {
+  data: {
+    indexPage: readFileSync(
+      config.filePath.data.indexPage,
+      { encoding: 'utf-8' }
+    ),
+  },
+  versionObject: JSON.parse(
+    readFileSync(
+      config.filePath.version.json,
+      { encoding: 'utf-8' }
+    )
+  ),
+  wiki: {
+    indexPage: readFileSync(
+      config.filePath.wiki.indexPage,
+      { encoding: 'utf-8' }
+    ),
+  },
+};
+
+
 const dateObject = new Date();
+const dateProper = dateObject.toLocaleDateString( 'en-US', {
+  month: 'long',
+  day: 'numeric',
+  year: 'numeric',
+} );
 const dateSplit = dateObject.toISOString().split( /T|:/ );
 const today = dateSplit[ 0 ];
-const time = `${ zeroPad( dateObject.getUTCHours(), 2) }:${ zeroPad( dateObject.getUTCMinutes(), 2 ) }`;
+const time = `${ zeroPad( dateObject.getUTCHours(), 2 ) }:${ zeroPad( dateObject.getUTCMinutes(), 2 ) }`;
 const hour = parseInt( dateSplit[ 1 ] );
 
 
-let output_VersionObject = {
+let newVersionObject = {
   version: null,
   date: today,
   time: time,
@@ -30,40 +53,79 @@ let output_VersionObject = {
 };
 
 
-output_VersionObject.milestoneStageDay = initial_VersionObject.milestoneStageDay;
+newVersionObject.milestoneStageDay = initial.versionObject.milestoneStageDay;
 if ( process.argv[ 2 ] === 'versionbump' )
-  output_VersionObject.milestoneStageDay++;
-output_VersionObject.milestoneVersion = parseInt(
-  `${ output_VersionObject.milestoneStage }${ zeroPad( output_VersionObject.milestoneStageDay, 2 ) }`
+  newVersionObject.milestoneStageDay++;
+newVersionObject.milestoneVersion = parseInt(
+  `${ newVersionObject.milestoneStage }${ zeroPad( newVersionObject.milestoneStageDay, 2 ) }`
 );
-output_VersionObject.version = `${ output_VersionObject.revision }.${ output_VersionObject.milestone }.${ output_VersionObject.milestoneVersion }.${ output_VersionObject.hour }`;
+newVersionObject.version = `${ newVersionObject.revision }.${ newVersionObject.milestone }.${ newVersionObject.milestoneVersion }.${ newVersionObject.hour }`;
 
 
-writeFileSync(
-  config.filePath.version.json,
-  JSON.stringify( output_VersionObject, undefined, 2 )
-);
-writeFileSync(
-  config.filePath.version.min,
-  output_VersionObject.version
-);
-writeFileSync(
-  config.filePath.wiki.template.newNote,
-  `---
+class GetUpdatedContent {
+  static dataIndexPage() {
+    return initial.data.indexPage
+      .replaceAll( /(?<=<data id="data_version">).*?(?=<\/data>)/g, newVersionObject.version )
+      .replaceAll( /(?<=<data id="data_revision">).*?(?=<\/data>)/g, newVersionObject.revision )
+      .replaceAll( /(?<=<data id="data_milestone">).*?(?=<\/data>)/g, `${ newVersionObject.milestone }.${ newVersionObject.milestoneStage }` )
+      .replaceAll( /(?<=<data id="data_updatetime">).*?(?=<\/data>)/g, `${ newVersionObject.date } ${ newVersionObject.time } UTC` )
+      .replaceAll( /(?<=<data id="data_timestamp">).*?(?=<\/data>)/g, newVersionObject.timestamp );
+  }
+  static wikiIndexPage() {
+    return initial.wiki.indexPage
+      .replaceAll(
+        /^version: (\d+\.){3}\d+$/gm,
+        'version: ' + newVersionObject.version
+      )
+      .replaceAll(
+        /^## Current version of the project\n\n\| Version number \| Last updated \|\n\| -- \| -- \|\n\| (\d+\.){3}\d+ \| [ADFJMNOS][a-y]+ [123]?\d, \d{4} \|/gm,
+        `## Current version of the project\n\n| Version number | Last updated |\n| -- | -- |\n| ${ newVersionObject.version } | ${ dateProper } |`
+      );
+  }
+  static wikiNewNoteTemplate() {
+    return `---
 tags:
   - EmptyPages
 contributors:
   - liledix4
-version: ${ output_VersionObject.version }
+version: ${ newVersionObject.version }
 ---
 `
+  }
+}
+
+
+doWriteFile(
+  config.filePath.version.json,
+  JSON.stringify( newVersionObject, undefined, 2 )
 );
-writeFileSync(
-  config.filePath.dataIndexPage,
-  initial_dataIndexPage
-    .replaceAll( /(?<=<data id="data_version">).*?(?=<\/data>)/g, output_VersionObject.version )
-    .replaceAll( /(?<=<data id="data_revision">).*?(?=<\/data>)/g, output_VersionObject.revision )
-    .replaceAll( /(?<=<data id="data_milestone">).*?(?=<\/data>)/g, `${ output_VersionObject.milestone }.${ output_VersionObject.milestoneStage }` )
-    .replaceAll( /(?<=<data id="data_updatetime">).*?(?=<\/data>)/g, `${ output_VersionObject.date } ${ output_VersionObject.time } UTC` )
-    .replaceAll( /(?<=<data id="data_timestamp">).*?(?=<\/data>)/g, output_VersionObject.timestamp )
+doWriteFile(
+  config.filePath.version.min,
+  newVersionObject.version
 );
+doWriteFile(
+  config.filePath.wiki.template.newNote,
+  GetUpdatedContent.wikiNewNoteTemplate()
+);
+doWriteFile(
+  config.filePath.data.indexPage,
+  GetUpdatedContent.dataIndexPage()
+);
+doWriteFile(
+  config.filePath.wiki.indexPage,
+  GetUpdatedContent.wikiIndexPage()
+);
+
+
+async function doWriteFile( path, content ) {
+  writeFile(
+    path,
+    content,
+    config.node.fs.writeFile.defaultOptions,
+    writeFileCallback
+  );
+}
+function writeFileCallback( err ) {
+  if ( err )
+    console.log( err );
+}

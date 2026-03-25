@@ -1,6 +1,6 @@
 ---
 title: Bombs vs. Sleepwalkers Wiki
-version: 0.1.506.7
+version: 0.1.507.11
 contributors:
   - liledix4
 ---
@@ -12,10 +12,16 @@ You can start your journey by **using the search bar** or **[going through the l
 
 > [!WARNING] Note on Quartz version of *BvS Wiki*
 > Unfortunately, since March 24, 2026, [Quartz](Quartz.md) (a system for generating static webpages out of Markdown files) proved to be unreliable in building complex wikis. On some occasions, it may be possible that pages reload themselves infinitely. The worst in this situation is: it’s not always possible to fix bugs or track down issues created by Quartz itself, especially due to sheer complexity of Quartz (360 Node.js packages as dependencies? Try to pin down where the problem lies!)
-> 
+>
 > Therefore, the decision has been made to begin creating a purely custom wiki system from scratch.  [liledix⁴](liledix4.md) announced it in the [YouTube community post](https://www.youtube.com/post/UgkxP1wzfITy7vj5cnaGuGWZ4dZj3FR4BGNP).
-> 
+>
 > Quartz version of *BvS Wiki* will be maintained passively. Keep in mind that now there’s a focus on creating a custom experience. It takes time, but for the sake of reliability, it has to be done. No more ready-to-go solutions, we had enough.
+
+## Current version of the project
+
+| Version number | Last updated |
+| -- | -- |
+| 0.1.507.11 | March 25, 2026 |
 
 ## Sources and mirrors of wiki
 
@@ -49,7 +55,7 @@ You can read more here: [*Bombs vs. Sleepwalkers* (franchise)](Bombs%20vs.%20Sle
 
 In order to avoid revealing too much (spoilers), you may see this mentioned in various places:
 
-```
+```txt
 {REDACTED: Some Text}
 ```
 

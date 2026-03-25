@@ -1,3 +1,4 @@
 **/.vscode/
 
 **/*.ffs_db
+**/*.ffs_lock
