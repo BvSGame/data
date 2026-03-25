@@ -1,3 +1,7 @@
 Options +Indexes +FollowSymLinks
 Require all granted
 IndexOptions +FancyIndexing +HTMLTable +NameWidth=* +DescriptionWidth=*
+
+<IfModule mod_headers.c>
+  Header set Access-Control-Allow-Origin "*"
+</IfModule>
