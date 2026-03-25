@@ -9,8 +9,7 @@ export const config = {
   filePath: {
     dataIndexPage: './index.html',
     version: {
-      min: './version_new',
-      minClassic: './version',
+      min: './version',
       json: './version.json',
     },
     wiki: {
