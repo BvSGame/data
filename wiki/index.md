@@ -1,6 +1,6 @@
 ---
 title: Bombs vs. Sleepwalkers Wiki
-version: 0.1.507.11
+version: 0.1.507
 contributors:
   - liledix4
 ---
@@ -21,7 +21,7 @@ You can start your journey by **using the search bar** or **[going through the l
 
 | Version number | Last updated |
 | -- | -- |
-| 0.1.507.11 | March 25, 2026 |
+| 0.1.507 | March 25, 2026 |
 
 ## Sources and mirrors of wiki
 

@@ -40,46 +40,56 @@ const hour = parseInt( dateSplit[ 1 ] );
 
 
 let newVersionObject = {
-  version: null,
+  version: {
+    full: null,
+    short: null,
+    float: null,
+  },
   date: today,
   time: time,
   timestamp: dateObject.getTime(),
   revision: config.version.revision,
-  milestone: config.version.milestone,
-  milestoneStage: config.version.milestoneStage,
-  milestoneStageDay: null,
-  milestoneVersion: null,
+  milestone: {
+    iteration: config.version.milestone.iteration,
+    stage: config.version.milestone.stage,
+    stageDay: null,
+    version: null,
+  },
   hour: hour,
 };
 
 
-newVersionObject.milestoneStageDay = initial.versionObject.milestoneStageDay;
+newVersionObject.milestone.stageDay = initial.versionObject.milestone.stageDay;
 if ( process.argv[ 2 ] === 'versionbump' )
-  newVersionObject.milestoneStageDay++;
-newVersionObject.milestoneVersion = parseInt(
-  `${ newVersionObject.milestoneStage }${ zeroPad( newVersionObject.milestoneStageDay, 2 ) }`
+  newVersionObject.milestone.stageDay++;
+newVersionObject.milestone.version = parseInt(
+  `${ newVersionObject.milestone.stage }${ zeroPad( newVersionObject.milestone.stageDay, 2 ) }`
 );
-newVersionObject.version = `${ newVersionObject.revision }.${ newVersionObject.milestone }.${ newVersionObject.milestoneVersion }.${ newVersionObject.hour }`;
+newVersionObject.version.short = `${ newVersionObject.revision }.${ newVersionObject.milestone.iteration }.${ newVersionObject.milestone.version }`;
+newVersionObject.version.full = `${ newVersionObject.version.short }.${ newVersionObject.hour }`;
+newVersionObject.version.float = parseFloat(
+  `${ newVersionObject.revision }${ zeroPad( newVersionObject.milestone.iteration, 2 ) }${ zeroPad( newVersionObject.milestone.stage, 2 ) }${ zeroPad( newVersionObject.milestone.stageDay, 2 ) }.${ newVersionObject.hour }`
+);
 
 
 class GetUpdatedContent {
   static dataIndexPage() {
     return initial.data.indexPage
-      .replaceAll( /(?<=<data id="data_version">).*?(?=<\/data>)/g, newVersionObject.version )
+      .replaceAll( /(?<=<data id="data_version">).*?(?=<\/data>)/g, newVersionObject.version.full )
       .replaceAll( /(?<=<data id="data_revision">).*?(?=<\/data>)/g, newVersionObject.revision )
-      .replaceAll( /(?<=<data id="data_milestone">).*?(?=<\/data>)/g, `${ newVersionObject.milestone }.${ newVersionObject.milestoneStage }` )
+      .replaceAll( /(?<=<data id="data_milestone">).*?(?=<\/data>)/g, `${ newVersionObject.milestone.iteration }.${ newVersionObject.milestone.stage }` )
       .replaceAll( /(?<=<data id="data_updatetime">).*?(?=<\/data>)/g, `${ newVersionObject.date } ${ newVersionObject.time } UTC` )
       .replaceAll( /(?<=<data id="data_timestamp">).*?(?=<\/data>)/g, newVersionObject.timestamp );
   }
   static wikiIndexPage() {
     return initial.wiki.indexPage
       .replaceAll(
-        /^version: (\d+\.){3}\d+$/gm,
-        'version: ' + newVersionObject.version
+        /^version: (\d+\.){2}\d+$/gm,
+        'version: ' + newVersionObject.version.short
       )
       .replaceAll(
-        /^## Current version of the project\n\n\| Version number \| Last updated \|\n\| -- \| -- \|\n\| (\d+\.){3}\d+ \| [ADFJMNOS][a-y]+ [123]?\d, \d{4} \|/gm,
-        `## Current version of the project\n\n| Version number | Last updated |\n| -- | -- |\n| ${ newVersionObject.version } | ${ dateProper } |`
+        /^## Current version of the project\n\n\| Version number \| Last updated \|\n\| -- \| -- \|\n\| (\d+\.){2}\d+ \| [ADFJMNOS][a-y]+ [123]?\d, \d{4} \|/gm,
+        `## Current version of the project\n\n| Version number | Last updated |\n| -- | -- |\n| ${ newVersionObject.version.short } | ${ dateProper } |`
       );
   }
   static wikiNewNoteTemplate() {
@@ -88,7 +98,7 @@ tags:
   - EmptyPages
 contributors:
   - liledix4
-version: ${ newVersionObject.version }
+version: ${ newVersionObject.version.full }
 ---
 `
   }
@@ -101,7 +111,15 @@ doWriteFile(
 );
 doWriteFile(
   config.filePath.version.min,
-  newVersionObject.version
+  newVersionObject.version.full
+);
+doWriteFile(
+  config.filePath.version.minFloat,
+  newVersionObject.version.float.toString()
+);
+doWriteFile(
+  config.filePath.version.minShort,
+  newVersionObject.version.short
 );
 doWriteFile(
   config.filePath.wiki.template.newNote,
