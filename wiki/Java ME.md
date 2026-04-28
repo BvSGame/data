@@ -1,4 +1,6 @@
 ---
+aliases:
+  - J2ME
 tags:
   - EmptyPages
 contributors:

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Bonus Stages
 tags:
   - EmptyPages
 contributors:

@@ -5,6 +5,8 @@ export const config = {
     milestone: {
       iteration: 1,
       stage: 5,
+      week: 1,
+      day: 2,
     },
   },
 

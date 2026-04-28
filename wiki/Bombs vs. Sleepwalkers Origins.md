@@ -1,7 +1,7 @@
 ---
 tags:
   - Games
-version: 0.1.504
+version: 0.1.512
 contributors:
   - liledix4
 ---

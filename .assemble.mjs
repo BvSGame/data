@@ -52,23 +52,23 @@ let newVersionObject = {
   milestone: {
     iteration: config.version.milestone.iteration,
     stage: config.version.milestone.stage,
-    stageDay: null,
+    stageWeek: config.version.milestone.week,
+    stageDay: config.version.milestone.day,
     version: null,
   },
   hour: hour,
 };
 
 
-newVersionObject.milestone.stageDay = initial.versionObject.milestone.stageDay;
-if ( process.argv[ 2 ] === 'versionbump' )
-  newVersionObject.milestone.stageDay++;
+// if ( process.argv[ 2 ] === 'versionbump' )
+//   newVersionObject.milestone.stageDay++;
 newVersionObject.milestone.version = parseInt(
-  `${ newVersionObject.milestone.stage }${ zeroPad( newVersionObject.milestone.stageDay, 2 ) }`
+  `${ newVersionObject.milestone.stage }${ newVersionObject.milestone.stageWeek }${ newVersionObject.milestone.stageDay }`
 );
 newVersionObject.version.short = `${ newVersionObject.revision }.${ newVersionObject.milestone.iteration }.${ newVersionObject.milestone.version }`;
 newVersionObject.version.full = `${ newVersionObject.version.short }.${ newVersionObject.hour }`;
 newVersionObject.version.float = parseFloat(
-  `${ newVersionObject.revision }${ zeroPad( newVersionObject.milestone.iteration, 2 ) }${ zeroPad( newVersionObject.milestone.stage, 2 ) }${ zeroPad( newVersionObject.milestone.stageDay, 2 ) }.${ newVersionObject.hour }`
+  `${ newVersionObject.revision }${ zeroPad( newVersionObject.milestone.iteration, 2 ) }${ zeroPad( newVersionObject.milestone.version, 4 ) }.${ zeroPad( newVersionObject.hour, 2 ) }`
 );
 
 
@@ -98,7 +98,7 @@ tags:
   - EmptyPages
 contributors:
   - liledix4
-version: ${ newVersionObject.version.full }
+version: ${ newVersionObject.version.short }
 ---
 `
   }

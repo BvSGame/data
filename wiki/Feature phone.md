@@ -1,4 +1,7 @@
 ---
+aliases:
+  - feature phone
+  - feature phones
 tags:
   - EmptyPages
 contributors:

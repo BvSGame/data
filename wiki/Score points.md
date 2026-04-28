@@ -1,4 +1,7 @@
 ---
+aliases:
+  - score
+  - score points
 tags:
   - EmptyPages
 contributors:

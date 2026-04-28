@@ -1,18 +1,19 @@
 {
   "version": {
-    "full": "0.1.507.13",
-    "short": "0.1.507",
-    "float": 10507.13
+    "full": "0.1.512.14",
+    "short": "0.1.512",
+    "float": 10512.14
   },
-  "date": "2026-03-25",
-  "time": "13:45",
-  "timestamp": 1774446304602,
+  "date": "2026-04-28",
+  "time": "14:40",
+  "timestamp": 1777387206997,
   "revision": 0,
   "milestone": {
     "iteration": 1,
     "stage": 5,
-    "stageDay": 7,
-    "version": 507
+    "stageWeek": 1,
+    "stageDay": 2,
+    "version": 512
   },
-  "hour": 13
+  "hour": 14
 }
