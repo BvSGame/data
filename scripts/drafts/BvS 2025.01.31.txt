@@ -1,0 +1,129 @@
+:featuring:
+E: Eddie
+Ro: Robot
+S: Saylor
+T: Tod
+V: Vera
+
+S: Oh, hey, Vera! Guess who I’m waiting for!
+V: Yeah, I know. How’s Tod?
+S: Tod is a scaredy-cat!
+V: Oh, I see. Why did he agree in the first place?
+S: Brain chemicals are a mess.
+V: Well, especially in his case.
+S: Ah yeah. What about you?
+V: Ah er, I called you to say that I’ve suddenly got other things to deal with.
+S: Oh, not you too.
+V: Sorry! I mean it!
+S: What happened?
+V: My brother got in trouble.
+S: Oh dear.
+V: Could be those walking things on the streets.
+S: Well, you could expect the worst from them... They’re fairly terrifying.
+V: I know, right? I’ll catch you later.
+S: Sounds rather inappropriate out of context.
+V: Sorry.
+S: Nevermind.
+V: Hey, can you even handle it alone? Maybe I could manage to join you.
+S: Eh, don’t worry, I’ll do it.
+V: I’ll try anyway.
+S: No need to rush, you still have time.
+V: Okay. Well, good luck!
+S: Let me know if things get any better.
+V: Sure. Till the next time.
+
+- - - -
+
+S: Hello? What are you doing here?
+E: Observing the robot. Obviously.
+S: This late? It’s 11 PM, mate.
+E: I was expecting to be here alone, alright? You can go home.
+S: Nah. Three people were tasked to look after this mannequin instead of you.
+E: I don’t see them.
+S: I’m one of them.
+E: One. Still not three. Or do you think glasses triplicate the image?
+S: Other two are... chilling.
+E: Why aren’t you?
+S: Love to keep myself busy.
+E: Insomnia?
+S: I'm not a sleepwalker. So? Any movements?
+E: It stands still. Just nothing happens.
+S: Interesting. You know, I like assigning genders and pronouns to the robots. Brings them a bit of personality. I’m always trying to be creative with this process.
+E: Huh. So, how would you refer to this one?
+S: He.
+E: He/they? He/something?
+S: He/him, obviously.
+E: I expected something less generic.
+S: I mean, he is generic. Just look at him. Nothing special at all. What of his features should impress you enough to assign him different pronouns?
+Ro: He... him.
+S: Oh! Just in time! Third conversation member! We waited.
+Ro: You’ve successfully assigned pronouns “he/him”.
+E: Are they assignable?
+Ro: Exception.
+E: Excuse me?
+Ro: Incorrect pronouns, “they”. Try again. Suggestion: never assume. Never assume. Never as--
+
+@S whacks THE @Ro.
+
+S: Sorry. I don't do that on first encounters. Eddie, this must be the first time these robots have ever spoken directly to us in any meaningful way?
+E: No.
+S: Stellar. Lovely to be late to the party.
+Ro: Saylor.
+E: (sotto) What the hell? Hey, we didn't mention your name in its-- his presence, did we?
+S: (sotto) It's been a long day. I don't recall.
+Ro: You're expected.
+E: Er, who is expected?
+Ro: Saylor is expected.
+E: What for? Maybe I could help?
+Ro: Saylor is expected.
+E: (sotto) Surely it's glitching.
+S: (sotto) That's a rather exceptional glitch.
+Ro: Saylor is expected.
+E: (sotto) Are you really going to respond to him?
+S: I'm here. I'm Saylor.
+Ro: Saylor is expected.
+S: Yeah, shut up, I got it the first time. Tell me what you need.
+E: (sotto) Hey, if he knocks you out, I don't take responsibility.
+S: Tough.
+Ro: Your voice pattern is registered in the database with your explicit consent.
+S: You seem to be picking up the wrong radio frequencies. I didn't do that.
+Ro: According to the conclusions from the records of various sensors, a significant influx of events in the coming time is predicted.
+S: Sounds like you're a doomscroller type.
+Ro: Beware of dark... dark... daaark...
+S: Chocolate?
+
+@Ro is abruptly switching off.
+
+E: What have you done?
+S: Nothing. He's untouched. (looking at her hand, remembering the whack) Well, almost. (trying to switch the topic) Did you happen to check the outlet or battery charge?
+E: You're shutting this conversation down!
+S: He wasn't up to it anyway. "Beware of dark"... Heh, "beware of dark"...
+E: Just the ramblings of a silly robot.
+S: This guy is certainly glitching. I'll try to make sure the grammar circuits are set up correctly in the morning.
+
+@Ro makes a sudden step forward.
+
+E: He moved.
+S: It was hard to miss. You don't need glasses to notice it.
+E: Thanks.
+S: (sotto) Let's slowly do the same.
+E: (sotto) Toward the exit, right?
+S: (sotto) Toward the very enticing exit, yes. Walk like running away isn't on your agenda today.
+
+@S runs up to THE @Ro to wave her hand in front of the closed cameras in place of its eyes.
+
+E: (sotto) Saylor!
+S: Er, hello? How's your eyesight? Looks like someone's got it the worst here.
+E: Stop roasting me!
+S: I wasn't talking to you.
+
+@Ro makes one more step forward, and it slightly terrifies @S.
+
+S: Ho! Breathtaking. Eddie, you need to see this closer.
+E: Really, stop it.
+S: Sorry. Couldn't resist.
+
+@Ro starts to speed up very gradually. @S runs up to @E.
+
+E: Good time to run, don't you think?
+S: Just walk.
