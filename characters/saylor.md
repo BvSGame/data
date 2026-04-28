@@ -1,5 +1,5 @@
 ---
-revised: 0.1.5.17
+revised: 0.1.5.18
 contributors_wip1_5:
 - edx
 contributors_wip1_0:
@@ -13,9 +13,9 @@ contributors_wip1_0:
 
 ****
 
-- ***Written:** February 28 - March 1, 2025.*
-- ***Revised:** March 1, 2025.*
-- ***Status:** not final! Subject to change, open to suggestions.*
+- **Written:** February 28 – March 1, 2025
+- **Revised:** April 4, 2025
+- **Status:** not final! Subject to change, open to suggestions.
 
 ## 1. Physicality
 
@@ -104,7 +104,7 @@ contributors_wip1_0:
 
 ## 8. Music themes
 
-- **“Saylor”** *(snippet)* – <https://youtu.be/x2soYnhqDH4>
+- **“Saylor”** – <https://youtu.be/K6iwrqZ2EEY>
 
 ## 9. Related characters
 

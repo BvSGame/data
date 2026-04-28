@@ -1,0 +1,65 @@
+:Characters
+A: Alice
+C: Charlotte
+S: Saylor
+T: Toni
+
+# Draft 6 - Untactical Boom
+
+[[April 9, 2026]]
+
+T: Is there any status update on your walking tinheads? It can’t be that dead quiet here.
+S: (checking her tablet) Patience, Toni, I’m trying my best! Damn, not a blip. Uh, Charlotte, can you try?
+C: This should boost the range.
+
+@C opens her parasol and points it upwards.
+
+S: Good, it helps.
+C: But, I’ll try my software kit as well.
+S: Stellar. Keep me informed.
+C: (checking her device on a wrist) Hmm. Saylor, I think there’s some faint radio wave detected on Northwest. 2 o’clock. I’ll point my parasol there. Check the readings.
+S: Oh. You’re not wrong. There is something. Up to 1\.25% spike every… 4-6 seconds. But I can’t figure out what it is. I don’t recognize the pattern. Toni, binoculars.
+T: Okay, lemme uh… Hmm…
+S: Well? Is there anything?
+T: Quiet.
+
+@T is looking into one window after the next. Until she finds…
+
+T: Oh! A figure!
+C: What is it?
+T: Wa-a-a-ait… A-ha. A sleepwalker. Just one of them.
+S: How distant?
+T: I would say uh, 200 yards.
+C: Good. Let me recalibrate. (twisting parts of the shaft) Here.
+S: Spikes are rising up to 5%, it’s more steady now.
+T: Can you get a remote audio capture?
+S: I’m trying. The signal is still too weak. Charlotte, keep recalibrating.
+C: On it. Wait!
+S: What is it?
+C: My sensors are detecting a rapidly moving second figure. It moves towards that sleepwalker.
+S: Toni, can you see anything?
+T: No, nothing.
+S: Strange.
+C: It’s stopped! Two points occupy the same spot.
+S: What the hell is going on?
+C: Now it rapidly moves back.
+T: Sleepwalker isn’t moving.
+S: My data makes no sense anymore. I’ll trust you two.
+
+Explosion is heard from the distance.
+
+T: You better trust your own ears. The sleepwalker blew up.
+S: What?
+C: Yeah, I saw it too. Just what’s happening?
+S: Are you asking me?
+A (VO): (through radio) Ah. So that’s who I saw on the roof right now. Well, your metalhead is done. Boom-whack-o-pow. Scrap metal. Mission complete, the area is clear.
+S: Alice, you’re a fool! That dead sleepwalker now sends a signal for reinforcements. You’ve ruined our stealth mission! Get out of there!
+A (VO): Saylor, I’m 19, not 9. I know what to do. See ya!
+
+@A cuts off the transmission.
+
+S: Little idiot.
+T: Little? You’re 21.
+C: Toni, sunshine, leave semantics for another day, alright?
+T: What does semantics mean?
+C: Just… keep your head clean for now, will you?

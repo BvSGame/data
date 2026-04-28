@@ -3,7 +3,7 @@ tags:
   - EmptyPages
 contributors:
   - liledix4
-version: 0.1.506.5
+version: 0.1.506
 title: Content-rich pages
 ---
 This tag is applied to pages that perfectly meet the standards for **content-rich pages**, meaning that they’re not just perfectly ready to read, but they provide an information so extensive that it represents the project in the most favorable light.

@@ -4,7 +4,7 @@ tags:
 contributors:
   - BlazingZephyr
   - liledix4
-version: 0.1.502.23
+version: 0.1.502
 aliases:
   - Phil
   - Philippines

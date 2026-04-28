@@ -2,7 +2,7 @@
 tags:
   - EmptyPages
   - ReferencesToOtherMedia
-version: 0.1.504.0
+version: 0.1.504
 contributors:
   - liledix4
 aliases:

@@ -1,0 +1,57 @@
+:Characters
+C: Charlotte
+S: Saylor
+T: Toni
+
+# Draft 7 - The Brick of Tricks
+
+[[April 9, 2026]]
+
+1980s. Street.
+
+@S and @T are hanging out. Flash of light! @C appears, dressed low-key as the 1980s business lady, with blouse and trousers. She even wears glasses.
+
+C: (checking her manipulator) So, Saylor. You’ve been saying my manipulator is too unstable and it may kill me. Well? (spreads her arms out) Am I in one piece?
+S: You’re in one piece only because I fixed it for you.
+T: Ahem, temporarily fixed. Or rather, you fiddled.
+S: Toni, there is time--
+T: --Don’t tell me about time, Doc Brown.
+S: Oh. That’s not a parasol.
+C: Of course. Basic umbrella.
+S: Same functionality.
+C: I only had to change a canopy and a few decorative pieces.
+T: Heh, what a chameleon gadget.
+C: In a sense. Hey, look what I’ve got.
+
+@C pulls out a 1980s mobile phone. A brick quite big for what you would normally expect from a phone.
+
+S: Oh no…
+C: Oh yes!
+T: Really?
+S: You can’t even read a tweet from this tiny screen. What do you need this for?
+C: Saylor. Don’t underestimate me. This is a camouflage.
+S: Explain.
+C: First, by typing a sequence of numbers, you can run various commands or even write a simple code that automatically expands to a complex expression. Enough to do whatever I want.
+S: Hm. That… sounds pretty cool.
+T: AI?
+C: God forbid, no. You want it to blow up? There’s another bubbly expert for that. This thing simply works with the algorithms. What I type is a shortcut and some attributes.
+T: Alright.
+C: But that’s not all. Don’t let the design of this device fool you. Its hardware construction is not primitive. Watch.
+
+@C unfolds the mobile phone to a small computer with QWERTY keyboard. Now it has a decently sized screen. Even if it’s black-and-white and overall still feels very retro.
+
+T: I believe you don’t punch a letter on it and print.
+C: Well, it could be a typewriter, especially if you plug in a little printer, but think beyond that.
+
+@C extends the radio antenna.
+
+C: Couple it with my umbrella and manipulator, and your beloved agency would think they’ve got competitors. Stealth as heck.
+S: Damn. I really underrated it. This is actually stellar!!
+C: See? That’s what I mean!
+S: I can’t wait to stress-test it--
+C: --No, Saylor, don’t get too excited. I know the limitations of it. Just trust it to me for now, alright?
+T: Oh don’t cry. You’ll have a chance to play with these toys after we have a very important walk, am I right?
+C: I actually can’t wait to see how you would manage to modify it!
+S: Well. Let’s… just see how it works in practice, shall we?
+C: Let’s go.
+T: Yay!

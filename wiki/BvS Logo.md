@@ -3,7 +3,7 @@ tags:
   - Franchise
 contributors:
   - liledix4
-version: 0.1.506.16
+version: 0.1.506
 aliases:
   - Bombs vs. Sleepwalkers Logo
   - logo

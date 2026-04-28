@@ -1,5 +1,5 @@
 ---
-revised: 0.1.5.17
+revised: 0.1.5.18
 contributors_wip1_5:
 - edx
 ---
@@ -19,95 +19,93 @@ contributors_wip1_5:
 
 ## Chapters
 
-- [Chapter 1: No Time Like the Present][ch1]
-- [Chapter 2: Not O.K. Quarrel][ch2]
-- [Chapter 3: 2345][ch3]
-- [Chapter 4: Future in Your Hands][ch4]
-- [Chapter 5: 2038][ch5]
-- [Chapter 6: No Space Like This Universe][ch6]
-- [Chapter 7: Caught in 2K][ch7]
-- [Chapter 8: Give the Pianist a Shot][ch8]
-- [Chapter 9: Security Breach][ch9]
-- [Chapter 10: Sleepless Thousand][ch10]
-- [Chapter 11: Don’t Shoot Saylor][ch11]
-- [Chapter 12: The New Order][ch12]
-- [Chapter 13: The New Tribes][ch13]
-- [Chapter 14: Ancient Habits][ch14]
-- [Chapter 15: Tech Paradise][ch15]
-- [Chapter 16: So Meta][ch16]
-- [Chapter 17: Radiation Fall][ch17]
-- [Chapter 18: Spring Field][ch18]
-- [Chapter 19: Chartbusters][ch19]
-- [Chapter 20: The Beat of ’84][ch20]
-- [Chapter 21: Twice Upon a Time][ch21]
-- [Chapter 22: The Surf Boom][ch22]
-- [Chapter 23: No Sun at the Beach][ch23]
-- [Chapter 24: Noir Au Revoir][ch24]
-- [Chapter 25: Manhattan in Time][ch25]
-- [Chapter 26: The Rise of Machinery][ch26]
-- [Chapter 27: Industry Standout][ch27]
-- [Chapter 28: Steam-Powered Computers][ch28]
-- [Chapter 29: Journey to the Mid][ch29]
-- [Chapter 30: My Moonlit Pony][ch30]
-- [Chapter 31: Slow Burn][ch31]
-- [Chapter 32: Fast Burnout][ch32]
-- [Chapter 33: The Maze of Giza][ch33]
-- [Chapter 34: Smart Home][ch34]
-- [Chapter 35: Jurassic Megalo-Blastic][ch35]
-- [Chapter 36: The Last of Them][ch36]
-- [Chapter 37: Cube-Simulator][ch37]
-- [Chapter 38: Borderline All-Out][ch38]
-- [Chapter 39: Moonwalkers][ch39]
-- [Chapter 40: Unearthly Files][ch40]
-- [Chapter 41: It’s Time to Stop][ch41]
-- [Chapter 42: Icy Hot][ch42]
-- [Chapter 43: Wrapping by Warping][ch43]
+- [Chapter  1: No Time Like the Present][notimelikethepresent]
+- [Chapter  2: Not O.K. Quarrel][notokquarrel]
+- [Chapter  3: 2345][2345]
+- [Chapter  4: Future in Your Hands][futureinyourhands]
+- [Chapter  5: 2038][2038]
+- [Chapter  6: No Space Like This Universe][nospacelikethisuniverse]
+- [Chapter  7: Caught in 2K][caughtin2k]
+- [Chapter  8: Give the Pianist a Shot][givethepianistashot]
+- [Chapter  9: Security Breach][securitybreach]
+- [Chapter 10: Sleepless Thousand][sleeplessthousand]
+- [Chapter 11: Don’t Shoot Saylor][dontshootsaylor]
+- [Chapter 12: The New Order][theneworder]
+- [Chapter 13: The New Tribes][thenewtribes]
+- [Chapter 14: Ancient Habits][ancienthabits]
+- [Chapter 15: Tech Paradise][techparadise]
+- [Chapter 16: So Meta][someta]
+- [Chapter 17: Radiation Fall][radiationfall]
+- [Chapter 18: Spring Field][springfield]
+- [Chapter 19: Chartbusters][chartbusters]
+- [Chapter 20: The Beat of ’84][thebeatof84]
+- [Chapter 21: The Surf Boom][thesurfboom]
+- [Chapter 22: No Sun at the Beach][nosunatthebeach]
+- [Chapter 23: Noir Au Revoir][noiraurevoir]
+- [Chapter 24: Manhattan in Time][manhattanintime]
+- [Chapter 25: The Rise of Machinery][theriseofmachinery]
+- [Chapter 26: Industry Standout][industrystandout]
+- [Chapter 27: Steam-Powered Computers][steampoweredcomputers]
+- [Chapter 28: Journey to the Mid][journeytothemid]
+- [Chapter 29: My Moonlit Pony][mymoonlitpony]
+- [Chapter 30: Slow Burn][slowburn]
+- [Chapter 31: Fast Burnout][fastburnout]
+- [Chapter 32: The Maze of Giza][themazeofgiza]
+- [Chapter 33: Smart Home][smarthome]
+- [Chapter 34: Jurassic Megalo-Blastic][jurassicmegaloblastic]
+- [Chapter 35: The Last of Them][thelastofthem]
+- [Chapter 36: Cube-Simulator][cubesimulator]
+- [Chapter 37: Borderline All-Out][borderlineallout]
+- [Chapter 38: Moonwalkers][moonwalkers]
+- [Chapter 39: Unearthly Files][unearthlyfiles]
+- [Chapter 40: It’s Time to Stop][itstimetostop]
+- [Chapter 41: Icy Hot][icyhot]
+- [Chapter 42: Wrapping by Warping][wrappingbywarping]
 
 [home]: /README.md
 [story]: /story/readme.md
 [story_bvs2]: /story/bvs2/readme.md
 [story_bvs1_side]: /story/bvs1/side_stories/readme.md
 
-[ch1]: /story/bvs1/01_no_time_like_the_present.md
-[ch2]: /story/bvs1/02_not_ok_quarrel.md
-[ch3]: /story/bvs1/03_2345.md
-[ch4]: /story/bvs1/04_future_in_your_hands.md
-[ch5]: /story/bvs1/05_2038.md
-[ch6]: /story/bvs1/06_no_space_like_this_universe.md
-[ch7]: /story/bvs1/07_caught_in_2k.md
-[ch8]: /story/bvs1/08_give_the_pianist_a_shot.md
-[ch9]: /story/bvs1/09_security_breach.md
-[ch10]: /story/bvs1/10_sleepless_thousand.md
-[ch11]: /story/bvs1/11_dont_shoot_saylor.md
-[ch12]: /story/bvs1/12_the_new_order.md
-[ch13]: /story/bvs1/13_the_new_tribes.md
-[ch14]: /story/bvs1/14_ancient_habits.md
-[ch15]: /story/bvs1/15_tech_paradise.md
-[ch16]: /story/bvs1/16_so_meta.md
-[ch17]: /story/bvs1/17_radiation_fall.md
-[ch18]: /story/bvs1/18_spring_field.md
-[ch19]: /story/bvs1/19_chartbusters.md
-[ch20]: /story/bvs1/20_the_beat_of_84.md
-[ch21]: /story/bvs1/21_twice_upon_a_time.md
-[ch22]: /story/bvs1/22_the_surf_boom.md
-[ch23]: /story/bvs1/23_no_sun_at_the_beach.md
-[ch24]: /story/bvs1/24_noir_au_revoir.md
-[ch25]: /story/bvs1/25_manhattan_in_time.md
-[ch26]: /story/bvs1/26_the_rise_of_machinery.md
-[ch27]: /story/bvs1/27_industry_standout.md
-[ch28]: /story/bvs1/28_steam_powered_computers.md
-[ch29]: /story/bvs1/29_journey_to_the_mid.md
-[ch30]: /story/bvs1/30_my_moonlit_pony.md
-[ch31]: /story/bvs1/31_slow_burn.md
-[ch32]: /story/bvs1/32_fast_burnout.md
-[ch33]: /story/bvs1/33_the_maze_of_giza.md
-[ch34]: /story/bvs1/34_smart_home.md
-[ch35]: /story/bvs1/35_jurassic_megalo_blastic.md
-[ch36]: /story/bvs1/36_the_last_of_them.md
-[ch37]: /story/bvs1/37_cube_simulator.md
-[ch38]: /story/bvs1/38_borderline_all_out.md
-[ch39]: /story/bvs1/39_moonwalkers.md
-[ch40]: /story/bvs1/40_unearthly_files.md
-[ch41]: /story/bvs1/41_its_time_to_stop.md
-[ch42]: /story/bvs1/42_icy_hot.md
-[ch43]: /story/bvs1/43_wrapping_by_warping.md
+[notimelikethepresent]: /story/bvs1/no_time_like_the_present.md
+[notokquarrel]: /story/bvs1/not_ok_quarrel.md
+[2345]: /story/bvs1/2345.md
+[futureinyourhands]: /story/bvs1/future_in_your_hands.md
+[2038]: /story/bvs1/2038.md
+[nospacelikethisuniverse]: /story/bvs1/no_space_like_this_universe.md
+[caughtin2k]: /story/bvs1/caught_in_2k.md
+[givethepianistashot]: /story/bvs1/give_the_pianist_a_shot.md
+[securitybreach]: /story/bvs1/security_breach.md
+[sleeplessthousand]: /story/bvs1/sleepless_thousand.md
+[dontshootsaylor]: /story/bvs1/dont_shoot_saylor.md
+[theneworder]: /story/bvs1/the_new_order.md
+[thenewtribes]: /story/bvs1/the_new_tribes.md
+[ancienthabits]: /story/bvs1/ancient_habits.md
+[techparadise]: /story/bvs1/tech_paradise.md
+[someta]: /story/bvs1/so_meta.md
+[radiationfall]: /story/bvs1/radiation_fall.md
+[springfield]: /story/bvs1/spring_field.md
+[chartbusters]: /story/bvs1/chartbusters.md
+[thebeatof84]: /story/bvs1/the_beat_of_84.md
+[thesurfboom]: /story/bvs1/the_surf_boom.md
+[nosunatthebeach]: /story/bvs1/no_sun_at_the_beach.md
+[noiraurevoir]: /story/bvs1/noir_au_revoir.md
+[manhattanintime]: /story/bvs1/manhattan_in_time.md
+[theriseofmachinery]: /story/bvs1/the_rise_of_machinery.md
+[industrystandout]: /story/bvs1/industry_standout.md
+[steampoweredcomputers]: /story/bvs1/steam_powered_computers.md
+[journeytothemid]: /story/bvs1/journey_to_the_mid.md
+[mymoonlitpony]: /story/bvs1/my_moonlit_pony.md
+[slowburn]: /story/bvs1/slow_burn.md
+[fastburnout]: /story/bvs1/fast_burnout.md
+[themazeofgiza]: /story/bvs1/the_maze_of_giza.md
+[smarthome]: /story/bvs1/smart_home.md
+[jurassicmegaloblastic]: /story/bvs1/jurassic_megalo_blastic.md
+[thelastofthem]: /story/bvs1/the_last_of_them.md
+[cubesimulator]: /story/bvs1/cube_simulator.md
+[borderlineallout]: /story/bvs1/borderline_all_out.md
+[moonwalkers]: /story/bvs1/moonwalkers.md
+[unearthlyfiles]: /story/bvs1/unearthly_files.md
+[itstimetostop]: /story/bvs1/its_time_to_stop.md
+[icyhot]: /story/bvs1/icy_hot.md
+[wrappingbywarping]: /story/bvs1/wrapping_by_warping.md

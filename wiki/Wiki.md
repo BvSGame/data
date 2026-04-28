@@ -1,5 +1,5 @@
 ---
-version: 0.1.503.15
+version: 0.1.503
 ---
 Since this page is about wiki itself, the best place to read about wiki is **[its home page](index.md)**.
 

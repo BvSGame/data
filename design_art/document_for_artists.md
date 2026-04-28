@@ -1,5 +1,5 @@
 ---
-revised: 0.1.5.17
+revised: 0.1.5.18
 contributors_wip1_5:
 - edx
 ---
@@ -12,7 +12,7 @@ contributors_wip1_5:
 
 Contains references, descriptions and guidelines. No AI!
 
-Project WIP 1.5 • Document Version 0.1 • 18-19 February 2025 • by liledix4
+Project WIP 1.5 • Document Version 0.1.5.18 • April 4, 2025 • by liledix4
 
 ## 1. Saylor
 

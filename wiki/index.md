@@ -4,7 +4,7 @@ version: 0.1.507
 contributors:
   - liledix4
 ---
-![Bombs vs. Sleepwalkers Logo](https://archive.org/download/bvsgame/brand/logos/bvs_logo_full_2023.png)
+![Cover of Bombs vs. Sleepwalkers Wiki](https://media.bvsga.me/brand/covers/bvs_wiki_cover.jpg)
 
 Welcome to ***Bombs vs. Sleepwalkers Wiki***, your first stop for everything you’d like to learn about *[Bombs vs. Sleepwalkers](Bombs%20vs.%20Sleepwalkers%20(franchise).md)*! This website is also known as ***BvS Wiki***, and the project itself is often called simply ***BvS***.
 

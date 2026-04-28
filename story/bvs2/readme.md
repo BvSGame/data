@@ -15,10 +15,10 @@ contributors_wip1_5:
 
 ## Chapters
 
-- [Chapter 1: Space Twister][ch1]
+- [Chapter 1: Space Twister][spacetwister]
 
 [home]: /README.md
 [prev]: /story/bvs1/readme.md
 [next]: /story/bvso/readme.md
 [story]: /story/readme.md
-[ch1]: /story/bvs2/01_space_twister.md
+[spacetwister]: /story/bvs2/space_twister.md

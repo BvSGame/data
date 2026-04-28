@@ -2,7 +2,7 @@
 tags:
   - EmptyPages
 title: Character groups
-version: 0.1.503.23
+version: 0.1.503
 contributors:
   - liledix4
 ---

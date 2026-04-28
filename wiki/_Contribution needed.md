@@ -3,7 +3,7 @@ tags:
   - EmptyPages
 contributors:
   - liledix4
-version: 0.1.505.19
+version: 0.1.505
 title: Contribution needed
 ---
 > [!NOTE] Here is how you can help *BvS Wiki* to grow!

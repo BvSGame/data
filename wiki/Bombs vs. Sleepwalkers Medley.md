@@ -7,7 +7,7 @@ tags:
   - Music
 contributors:
   - liledix4
-version: 0.1.504.13
+version: 0.1.504
 ---
 _**Bombs vs. Sleepwalkers Medley**_, shortened as _**BvS Medley**_ or simply _**Medley**_, is an ongoing musical event by [liledix⁴](liledix4.md).
 

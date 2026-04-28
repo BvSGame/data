@@ -1,7 +1,7 @@
 ---
 tags:
   - Characters
-version: 0.1.504.11
+version: 0.1.504
 contributors:
   - BlazingZephyr
   - liledix4

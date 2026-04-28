@@ -3,7 +3,7 @@ tags:
   - Games
 contributors:
   - liledix4
-version: 0.1.504.0
+version: 0.1.504
 ---
 ***Bombs vs. Sleepwalkers 3D*** (*BvS 3D*) is a fourth and supposedly final game in the [*Bombs vs. Sleepwalkers* game series](Bombs%20vs.%20Sleepwalkers%20(franchise).md).
 

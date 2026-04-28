@@ -1,5 +1,5 @@
 ---
-revised: 0.1.5.17
+revised: 0.1.5.18
 contributors_wip1_5:
 - edx
 ---
@@ -16,7 +16,9 @@ Technically, documentation and wiki in one place, designed to be parsed in a var
 >
 > Since February 2025, it was decided to gradually publish information that had previously been private. We still strictly adhere to the non-disclosure of spoilers and information that reveals vital plot and gameplay points before the proper media release.
 
-**Visit [bvsgame.github.io](https://bvsgame.github.io) and [bvs.liledix.com](https://bvs.liledix.com)!**
+**Visit [bvsgame.github.io][website1] and [bvs.liledix.com][website2]!**
+
+****
 
 - [🪧 **Introduction**][intro] – what this whole project is about.
 - [🎮 **Games**][games] – summaries about every game we’re working on.
@@ -25,6 +27,7 @@ Technically, documentation and wiki in one place, designed to be parsed in a var
 - [💰 **Donate**][donate] – if you have the financial means and if you want us to grow!
 - [🧑‍💻 **Contributors**][contributors] – the list of the most valuable people!
 - [🔢 **Project Versions**][projver] – what’s changed and what’s planned.
+  - [Latest change log is here!][changelog_latest]
 
 ****
 
@@ -116,5 +119,9 @@ Also. No matter if your questions are simple or complicated. Weird or make perfe
 [thankyou]: /thank_you.md
 [version_file]: /version
 [voiceacting]: /voice_acting/readme.md
+[website1]: https://bvsgame.github.io
+[website2]: https://bvs.liledix.com
 [xml]: /xml/readme.md
 [xml_index]: /xml/index.xml
+
+[changelog_latest]: /project_versions/wip1_5_2025_03.md
