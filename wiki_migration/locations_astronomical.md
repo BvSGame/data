@@ -12,12 +12,5 @@ contributors_wip1_5:
 
 Planets, natural satellites, asteroids and stars.
 
-- [Earth][earth]
-- [Jenesis’ Asteroid][jenesisasteroid]
-- [The Moon][moon]
-
 [home]: /README.md
-[earth]: /locations/astronomical/earth.md
-[jenesisasteroid]: /locations/astronomical/jenesis_asteroid.md
 [locations]: /locations/readme.md
-[moon]: /locations/astronomical/the_moon.md
