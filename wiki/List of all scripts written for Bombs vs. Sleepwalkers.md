@@ -9,9 +9,10 @@ version: 0.1.513
 
 ## Total word count so far
 
-#2do:
+Confirmed/verified amount of words across the *most* of written pieces (not *every* written piece yet) is **37,200**. However, #2do:
 
-- [ ] First of all, finish the lists.
+- [ ] More drafts must be migrated to Git repositories (for example, the “malic acid” intellectual confrontation between [Jenesis](Jenesis.md) and [Saylor](Saylor.md), written in February 16, 2026);
+- [ ] The list of scripts mentioned here is incomplete.
 
 ## Sequential scripts
 
@@ -135,7 +136,7 @@ These scripts are sorted by monthly batches. These drafts may migrate to the seq
 | 12.2 | *[Televised Intrusion](Televised%20Intrusion.md)*                     |       | [liledix⁴](liledix4.md) |   791 | April 20, 2026               |
 | Side | *[The Calm Before the Storm](The%20Calm%20Before%20the%20Storm.md)*   |       | [liledix⁴](liledix4.md) | 1,552 | April 20-21, 2026            |
 | 13   | *[Age Gap of Terror](Age%20Gap%20of%20Terror.md)*                     |       | [liledix⁴](liledix4.md) |   771 | April 21, 2026               |
-| 14   | *Untitled*                                                            |       | [liledix⁴](liledix4.md) |       | April 29-30, 2026            |
+| 14   | *Untitled*                                                            |       | [liledix⁴](liledix4.md) |   665 | April 29-30, 2026            |
 
 ## #2do: This list can be improved
 
