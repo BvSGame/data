@@ -65,7 +65,7 @@ Playlist with all currently released parts of *Medley* can be found on [YouTube]
 
 ### Parts of *Medley* released so far
 
-![[_Updatable post]]
+![[_Updatable]]
 
 As of **March 18, 2026**, parts of *Medley* has been released as follows:
 

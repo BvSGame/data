@@ -2,6 +2,25 @@
 aliases:
   - Writing
   - Screenwriting
-tags:
-  - EmptyPages
+  - writing
+  - screenwriting
+  - story
+  - Story
+  - scripts
+  - script drafts
+  - script draft
+  - Script draft
+  - Script drafts
+contributors:
+  - liledix4
+version: 0.1.513
 ---
+#2do 
+
+- [ ] What are scripts?
+- [ ] What is the format of scripts? (answer: [Fountain](Fountain.md) later rendered as PDF, but there can be other formats)
+- [ ] Why are the scripts important in Bombs vs. Sleepwalkers, even for a game series, not just for a franchise?
+
+## Script drafts
+
+For different creators, the writing process can vary. #2do 

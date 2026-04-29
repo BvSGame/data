@@ -1,8 +1,8 @@
 ---
 title: Bombs vs. Sleepwalkers Wiki
-version: 0.1.512
 contributors:
   - liledix4
+version: 0.1.513
 ---
 ![Cover of Bombs vs. Sleepwalkers Wiki](https://media.bvsga.me/brand/covers/bvs_wiki_cover.jpg)
 
@@ -21,7 +21,7 @@ You can start your journey by **using the search bar** or **[going through the l
 
 | Version number | Last updated |
 | -- | -- |
-| 0.1.512 | April 28, 2026 |
+| 0.1.513 | April 29, 2026 |
 
 ## Sources and mirrors of wiki
 
@@ -79,3 +79,8 @@ Quartz version of *Bombs vs. Sleepwalkers Wiki* consists of two assembled parts:
 
 - Quartz repository is licensed under [MIT License](https://github.com/BvSGame/quartz/blob/v4/LICENSE.txt).
 - *BvS* “data” repository is licensed under [GNU Affero General Public License v3.0](https://github.com/BvSGame/data/blob/main/LICENSE).
+
+## Known issues
+
+- [ ] Apostrophes that mark omission (like in “don’t” or “’85”) are incorrect. Those should not have an opening single quotation mark. This must be fixed for consistency. Same applies to the scripts, not just wiki pages.
+	- [ ] It would also be lovely to update [2fountain](2fountain.md) for correct automatic parsing and auto-fixing of the wrong apostrophes.

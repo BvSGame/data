@@ -1,0 +1,61 @@
+:Characters
+R: Rick
+Ro: Robot
+S: Saylor
+
+There is some preceding dialogue, I’m still writing it. Here’s what we have.
+
+S: Don’t you even dare to say a single word about him!
+R: Saylor.
+Ro: Why are you so vulnerable when it comes to this human being?
+S: We share our past. And you have no future!
+Ro: (laughs) Is this some kind of a threat?
+S: You’ve figured it out just right. (pulls out her screwdriver) I’m about to screw you up.
+Ro: Then brace for the same fate.
+S: Bring it on.
+
+And here, a mini-boss battle takes place.
+
+Some minutes later…
+
+@Ro is half-defeated. @S prepares for her next attack. But robot suddenly collapses on the floor. @S notices that @R disconnected some device from the wall socket.
+
+S: Wireless power delivery…
+R: Connected to the socket.
+S: Very ingenious. Wi-Fi for real electricity. You would imagine charging a phone without getting up from your armchair.
+R: Quite comfy.
+S: (to the @Ro) But you decided to roam the room. You can’t even go out to take a breather and a nice walk. Delivery range must be limited to 10 yards at most. Therefore, someone parked you here. On purpose.
+R: Someone must be expecting us.
+S: (to the @Ro) Who would that be?
+Ro: I’m not saying a word.
+S: I assume, you consume an enormous amount of energy even idling. Without this power supply, you have roughly 10 seconds before you pass out. (dramatic pause) Your famous last words?
+Ro: Darkrock.
+
+And the @Ro finally switches off.
+
+S: What? What is Darkrock?
+R: Or who?
+S: Is that some sort of your favorite music genre or what? Sigh… Rick, don’t connect that power transmitter.
+R: I wasn’t going to.
+S: We don’t need to share space with a big blender. Besides, I suspect it may be bugged. I’ll disassemble it.
+R: Saylor the Tinkerer. You never change.
+
+@S proceeds to the disassembly of the @Ro, but she keeps talking while being focused on the task.
+
+S: Takes one to know one. I don’t see you ever changing too. I wouldn’t complain, though.
+R: Me? Never changing?
+S: You live with the ghosts in your head. Instead of real friends, real people who care and want to get closer to you. Today. Not 13 years ago.
+R: It is *my* past.
+S: Look. Do I agree that the past defines our present and future? Not really. Only when we bring meaning to it. Do you really want the darkness of your past to be a highlight of your life?
+R: I can’t undo it.
+S: For goodness sakes! You can move on! Why are you so stubborn? I can’t understand.
+R: Because you haven’t lived through it! Because you weren’t in that car crash! All you know is what I tell you.
+S: Oh yes… “Because I don’t live it, I don’t have a say on it.” Rick. I know you for 13 years. I’m the closest person you ever had. You had family for 8 years, you had me for 13. So if you want me to shut up, you’ve found the wrong girl.
+R: Okay… I guess you win. You always win. That’s your hobby, winning, isn’t it? Even when you want to lose, you don’t.
+S: (takes a silent pause) Oh so we’re talking about me now. Ha. I gave up my past. My success. Because that wasn’t me. Real me is here. (distracts and looks at @R) Now, do you want yourself to be like this? A keyword is “want.”
+R: I… I don’t know.
+S: You don’t?
+R: Saylor. Let’s keep this conversation for later.
+S: (focused on the robot again) Every time. Every time when it gets serious and smells like something’s burning, you retreat. One day I won’t allow you to do it, remember that. You will not get away with this.
+R: I’m looking forward to it.
+S: Forward… Hah. Says the guy who is stuck in the backward vector…

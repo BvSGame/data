@@ -1,5 +1,6 @@
-/.private/
-**/.vscode/
-
 **/*.ffs_db
 **/*.ffs_lock
+/.private/
+**/.stfolder/
+**/.stignore
+**/.vscode/

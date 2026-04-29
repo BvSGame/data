@@ -52,12 +52,16 @@ let newVersionObject = {
   milestone: {
     iteration: config.version.milestone.iteration,
     stage: config.version.milestone.stage,
-    stageWeek: config.version.milestone.week,
-    stageDay: config.version.milestone.day,
+    stageWeek: initial.versionObject.milestone.stageWeek,
+    stageDay: getWeekdayInteger( dateObject ),
     version: null,
   },
   hour: hour,
 };
+
+
+if ( newVersionObject.milestone.stageDay < initial.versionObject.milestone.stageDay )
+  newVersionObject.milestone.stageWeek++;
 
 
 // if ( process.argv[ 2 ] === 'versionbump' )
@@ -146,4 +150,19 @@ async function doWriteFile( path, content ) {
 function writeFileCallback( err ) {
   if ( err )
     console.log( err );
+}
+
+
+function getWeekdayInteger( date ) {
+  if ( date === undefined ) date = new Date();
+  const weekdayString = date.toLocaleString( 'en-US', { weekday: 'short' } );
+  switch ( weekdayString ) {
+    case 'Mon': return 1;
+    case 'Tue': return 2;
+    case 'Wed': return 3;
+    case 'Thu': return 4;
+    case 'Fri': return 5;
+    case 'Sat': return 6;
+    case 'Sun': return 7;
+  }
 }

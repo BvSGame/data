@@ -1,0 +1,31 @@
+---
+contributors:
+  - liledix4
+version: 0.1.513
+---
+***One-second Card***, numbered as “Draft 8, Part 1/2,” is one of the [April 2026 script drafts](April%202026%20script%20drafts.md) for [*Bombs vs. Sleepwalkers* game series](Bombs%20vs.%20Sleepwalkers%20(franchise).md).
+
+| Info               | Value                                                                                                                                                                                                                                                                                                                       |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Title              | *One-second Card*                                                                                                                                                                                                                                                                                                           |
+| Technical title    | Draft 8, Part 1/2                                                                                                                                                                                                                                                                                                           |
+| Draft series       | April 2026 script drafts: #8                                                                                                                                                                                                                                                                                                |
+| Author(s)          | [liledix⁴](liledix4.md)                                                                                                                                                                                                                                                                                                     |
+| Word count         | 721                                                                                                                                                                                                                                                                                                                         |
+| Fountain file      | [Codeberg](https://codeberg.org/BvS/data/src/branch/main/scripts/2026_04/scriptdraft08_part1.fountain)<br>[GitHub](https://github.com/BvSGame/data/blob/main/scripts/2026_04/scriptdraft08_part1.fountain)<br>[sourcehut](https://git.sr.ht/~liledix4/bvs_data/tree/main/item/scripts/2026_04/scriptdraft08_part1.fountain) |
+| PDF file           | [media.bvsga.me](http://media.bvsga.me/scripts/2026_04/scriptdraft08_part1.pdf)                                                                                                                                                                                                                                             |
+| Characters         | [Charlotte](Charlotte.md)<br>[Marie](Marie.md)                                                                                                                                                                                                                                                                              |
+| Mentions           | [Saylor](Saylor.md)<br>[Rick](Rick.md)                                                                                                                                                                                                                                                                                      |
+| Setting            |                                                                                                                                                                                                                                                                                                                             |
+| Date first written | April 11, 2026                                                                                                                                                                                                                                                                                                              |
+| Date last modified | April 11, 2026                                                                                                                                                                                                                                                                                                              |
+| Preceding script   | *[The Brick of Tricks](The%20Brick%20of%20Tricks.md)*                                                                                                                                                                                                                                                                       |
+| Succeeding script  | *[The Runaway](The%20Runaway.md)*                                                                                                                                                                                                                                                                                           |
+
+## Synopsis
+
+#TBA 
+
+## Highlights
+
+#TBA 

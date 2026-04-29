@@ -1,9 +1,8 @@
 ---
-tags:
-  - EmptyPages
 contributors:
   - liledix4
 version: 0.1.505
+title: Out of date
 ---
 > [!WARNING] This information may be (or is) out of date.
 > In the future updates of the project, this can be changed.
