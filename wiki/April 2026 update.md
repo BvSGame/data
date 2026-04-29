@@ -7,7 +7,6 @@ aliases:
 ---
 ## List of new script drafts
 
-
 In **April 2026**, [liledix⁴](liledix4.md) wrote over **13 script drafts** for [*Bombs vs. Sleepwalkers* franchise](Bombs%20vs.%20Sleepwalkers%20(franchise).md). Precise number of drafts is 17, if to include Side Note (1) and count two-parters separately (3 two-parters = 6 drafts).
 
 Narratively, these drafts don’t necessarily follow the linear structure. However, it is recommended to read in order as the scripts are numbered.

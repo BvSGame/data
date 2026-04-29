@@ -3,7 +3,7 @@ contributors:
   - liledix4
 version: 0.1.513
 ---
-***Lightnings No More***, numbered as “Draft 3,” is one of the [April 2026 script drafts](April%202026%20script%20drafts.md) for [*Bombs vs. Sleepwalkers* game series](Bombs%20vs.%20Sleepwalkers%20(franchise).md).
+***Lightnings No More***, numbered as “Draft 3,” is the script draft for [*Bombs vs. Sleepwalkers* game series](Bombs%20vs.%20Sleepwalkers%20(franchise).md), written during [April 2026 update](April%202026%20update.md).
 
 | Info               | Value                                                                                                                                                                                                                                                                                                     |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

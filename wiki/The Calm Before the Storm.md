@@ -3,7 +3,7 @@ contributors:
   - liledix4
 version: 0.1.513
 ---
-***The Calm Before the Storm***, also called “Side Note,” is one of the [April 2026 script drafts](April%202026%20script%20drafts.md) for [*Bombs vs. Sleepwalkers* game series](Bombs%20vs.%20Sleepwalkers%20(franchise).md). While this draft is unnumbered, it is placed between Draft 12, Part 2/2 (*[Televised Intrusion](Televised%20Intrusion.md)*) and Draft 13 (*[Age Gap of Terror](Age%20Gap%20of%20Terror.md)*).
+***The Calm Before the Storm***, also called “Side Note,” is the script draft for [*Bombs vs. Sleepwalkers* game series](Bombs%20vs.%20Sleepwalkers%20(franchise).md), written during [April 2026 update](April%202026%20update.md). While this draft is unnumbered, it is placed between Draft 12, Part 2/2 (*[Televised Intrusion](Televised%20Intrusion.md)*) and Draft 13 (*[Age Gap of Terror](Age%20Gap%20of%20Terror.md)*).
 
 | Info               | Value                                                                                                                                                                                                                                                                                                              |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

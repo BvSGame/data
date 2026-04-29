@@ -5,7 +5,7 @@ version: 0.1.513
 aliases:
   - Sunshine
 ---
-***Sunshine***, numbered as “Draft 5,” is one of the [April 2026 script drafts](April%202026%20script%20drafts.md) for [*Bombs vs. Sleepwalkers* game series](Bombs%20vs.%20Sleepwalkers%20(franchise).md).
+***Sunshine***, numbered as “Draft 5,” is the script draft for [*Bombs vs. Sleepwalkers* game series](Bombs%20vs.%20Sleepwalkers%20(franchise).md), written during [April 2026 update](April%202026%20update.md).
 
 | Info               | Value                                                                                                                                                                                                                                                                                                     |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

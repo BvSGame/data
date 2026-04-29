@@ -115,7 +115,7 @@ Side stories are parts of the established narrative, but they’re not a part of
 
 These scripts are sorted by monthly batches. These drafts may migrate to the sequential scripts once they are polished and once the specific placement in the narrative is decided.
 
-### [April 2026 script drafts](April%202026%20script%20drafts.md)
+### [April 2026 update](April%202026%20update.md)
 
 | No.  | Title                                                                 | Files | Author(s)               | Words | First written / Last updated |
 | :--- | --------------------------------------------------------------------- | ----- | ----------------------- | ----: | ---------------------------- |
