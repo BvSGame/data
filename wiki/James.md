@@ -1,5 +1,5 @@
 ---
 tags:
   - Characters
-  - EmptyPages
+  - 99WordsOrLower
 ---

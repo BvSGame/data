@@ -1,6 +1,6 @@
 ---
-contributors:
-  - liledix4
+tags:
+  - 100Words
 version: 0.1.513
 aliases:
   - The Smart Brick

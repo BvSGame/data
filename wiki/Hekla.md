@@ -1,5 +1,5 @@
 ---
 tags:
   - Locations
-  - EmptyPages
+  - 99WordsOrLower
 ---

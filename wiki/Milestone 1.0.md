@@ -1,11 +1,10 @@
 ---
-contributors:
-  - liledix4
+tags:
+  - DevelopmentStages
+  - 100Words
 version: 0.1.506
 aliases:
   - 2023 Reboot
-tags:
-  - DevelopmentStages
 ---
 **Milestone 1.0**, also known as **2023 Reboot**, is a critical development stage in [*Bombs vs. Sleepwalkers* franchise](Bombs%20vs.%20Sleepwalkers%20(franchise).md) history, marking a breaking, [stellar](Stellar.md) change from what it has been since 2014.
 

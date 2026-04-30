@@ -1,5 +1,5 @@
 ---
-title: Upcoming content
+title: 🆙 Upcoming content
 ---
 This tag is applied to pages that describe content to be released relatively soon.
 

@@ -1,10 +1,8 @@
 ---
 tags:
-  - EmptyPages
   - ReferencesToOtherMedia
+  - 99WordsOrLower
 version: 0.1.504
-contributors:
-  - liledix4
 aliases:
   - DDLC:NH
   - DDLC New Heading

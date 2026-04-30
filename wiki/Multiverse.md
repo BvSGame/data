@@ -1,6 +1,6 @@
 ---
+tags:
+  - 99WordsOrLower
 aliases:
   - multiverse
-tags:
-  - EmptyPages
 ---

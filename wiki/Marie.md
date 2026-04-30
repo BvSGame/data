@@ -1,9 +1,8 @@
 ---
 tags:
   - Characters
+  - 99WordsOrLower
 version: 0.1.504
-contributors:
-  - liledix4
 ---
 **Marie** is a supporting member of [Team Saylor](Team%20Saylor.md).
 

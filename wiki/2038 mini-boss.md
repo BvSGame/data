@@ -1,6 +1,6 @@
 ---
 tags:
-  - EmptyPages
   - Characters
+  - 99WordsOrLower
 version: 0.1.504
 ---

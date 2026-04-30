@@ -1,6 +1,4 @@
 ---
-contributors:
-  - liledix4
 title: Updatable
 version: 0.1.513
 ---

@@ -99,9 +99,7 @@ class GetUpdatedContent {
   static wikiNewNoteTemplate() {
     return `---
 tags:
-  - EmptyPages
-contributors:
-  - liledix4
+  - 99WordsOrLower
 version: ${ newVersionObject.version.short }
 ---
 `

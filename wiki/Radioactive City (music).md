@@ -1,9 +1,8 @@
 ---
 tags:
   - Music
+  - 99WordsOrLower
 version: 0.1.504
-contributors:
-  - liledix4
 ---
 ***Radioactive City*** is a musical theme associated with location [Radioactive City](Radioactive%20City.md).
 

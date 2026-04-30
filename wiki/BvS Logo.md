@@ -1,14 +1,13 @@
 ---
+title: Bombs vs. Sleepwalkers Logo
 tags:
   - Franchise
-contributors:
-  - liledix4
+  - 100Words
 version: 0.1.506
 aliases:
   - Bombs vs. Sleepwalkers Logo
   - logo
   - Logo
-title: Bombs vs. Sleepwalkers Logo
 ---
 ***Bombs vs. Sleepwalkers Logo*** (*BvS Logo*) is the most visible piece of [branding](Branding.md) for the [franchise](Bombs%20vs.%20Sleepwalkers%20(franchise).md). Logo is designed by [liledix⁴](liledix4.md).
 

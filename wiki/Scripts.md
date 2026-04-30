@@ -1,4 +1,7 @@
 ---
+tags:
+  - 99WordsOrLower
+version: 0.1.513
 aliases:
   - Writing
   - Screenwriting
@@ -11,9 +14,6 @@ aliases:
   - script draft
   - Script draft
   - Script drafts
-contributors:
-  - liledix4
-version: 0.1.513
 ---
 #2do 
 

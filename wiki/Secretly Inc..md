@@ -1,9 +1,7 @@
 ---
-tags:
-  - EmptyPages
-  - ReferencesToOtherMedia
-version: 0.1.503
 title: Secretly Inc.
-contributors:
-  - liledix4
+tags:
+  - ReferencesToOtherMedia
+  - 99WordsOrLower
+version: 0.1.503
 ---

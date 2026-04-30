@@ -1,6 +1,6 @@
 ---
 tags:
-  - EmptyPages
+  - 99WordsOrLower
 ---
 
 ## Git platforms sorted by priority

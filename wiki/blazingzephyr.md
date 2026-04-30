@@ -1,10 +1,8 @@
 ---
 tags:
-  - EmptyPages
+  - 99WordsOrLower
 aliases:
   - Zeph
   - ZaBlazzingZephyrus
-contributors:
-  - liledix4
-version: 0.1.502.23
+version: 0.1.502
 ---

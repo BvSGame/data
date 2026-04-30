@@ -1,7 +1,7 @@
 ---
+tags:
+  - 99WordsOrLower
 aliases:
   - Mac
   - MacBook
-tags:
-  - EmptyPages
 ---

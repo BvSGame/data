@@ -1,9 +1,7 @@
 ---
+tags:
+  - 99WordsOrLower
+version: 0.1.512
 aliases:
   - J2ME
-tags:
-  - EmptyPages
-contributors:
-  - liledix4
-version: 0.1.512
 ---

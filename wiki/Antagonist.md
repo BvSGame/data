@@ -1,7 +1,7 @@
 ---
 tags:
   - RealWorldTerms
-  - EmptyPages
+  - 99WordsOrLower
 aliases:
   - antagonist
 ---

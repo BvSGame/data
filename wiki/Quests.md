@@ -1,8 +1,6 @@
 ---
 tags:
-  - EmptyPages
-contributors:
-  - liledix4
+  - 99WordsOrLower
 version: 0.1.513
 ---
 - [Quests in *Bombs vs. Sleepwalkers* (game)](Quests%20in%20Bombs%20vs.%20Sleepwalkers%20(game).md)

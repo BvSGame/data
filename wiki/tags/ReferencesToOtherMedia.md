@@ -1,8 +1,4 @@
 ---
-tags:
-  - EmptyPages
+title: 🎬 References to other media
 version: 0.1.504
-title: References to other media
-contributors:
-  - liledix4
 ---

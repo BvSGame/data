@@ -1,4 +1,6 @@
 ---
+tags:
+  - 99WordsOrLower
 aliases:
   - License
   - Licensing
@@ -9,6 +11,4 @@ aliases:
   - Libre
   - Copyright
   - Copyleft
-tags:
-  - EmptyPages
 ---

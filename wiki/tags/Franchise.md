@@ -1,7 +1,4 @@
 ---
-tags:
-  - EmptyPages
+title: 💣 Franchise
 version: 0.1.504
-contributors:
-  - liledix4
 ---

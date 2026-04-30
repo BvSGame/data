@@ -1,6 +1,6 @@
 ---
+tags:
+  - 99WordsOrLower
 aliases:
   - Universe
-tags:
-  - EmptyPages
 ---

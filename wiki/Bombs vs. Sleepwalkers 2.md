@@ -1,15 +1,14 @@
 ---
+tags:
+  - Games
+  - 99WordsOrLower
+version: 0.1.512
 aliases:
   - "Bombs vs. Sleepwalkers: Too Dimensional"
   - BvS 2
   - BvS2
   - BvS 2D
   - BvS2D
-tags:
-  - Games
-contributors:
-  - liledix4
-version: 0.1.512
 ---
 ***Bombs vs. Sleepwalkers 2*** (*BvS 2*), also known as ***Bombs vs. Sleepwalkers: Too Dimensional*** (*BvS TD* or *BvS 2D*) is a second game in the [*Bombs vs. Sleepwalkers* game series](Bombs%20vs.%20Sleepwalkers%20(franchise).md).
 

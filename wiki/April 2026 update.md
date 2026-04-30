@@ -1,6 +1,6 @@
 ---
-contributors:
-  - liledix4
+tags:
+  - 500Words
 version: 0.1.513
 aliases:
   - April 2026

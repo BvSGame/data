@@ -1,7 +1,6 @@
 ---
 tags:
-contributors:
-  - liledix4
+  - 100Words
 version: 0.1.505
 aliases:
   - BvS Git
@@ -46,4 +45,4 @@ Normally, all updates for Git repositories are simultaneously pushed to multiple
 
 ### There are more repositories that are not mentioned here
 
-Therefore, #TBA!
+Therefore, #2do !

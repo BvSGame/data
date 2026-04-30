@@ -1,8 +1,7 @@
 ---
 tags:
   - Lists
-contributors:
-  - liledix4
+  - 1000Words
 version: 0.1.513
 ---
 #TBA Scripts are still being released. Keep an eye on this list getting expanded.
@@ -75,25 +74,25 @@ These scripts are sorted by narrative order: events happen as it goes in the gam
 
 ### *[Bombs vs. Sleepwalkers Origins](Bombs%20vs.%20Sleepwalkers%20Origins.md)*
 
-| Title                                         | Files | Author(s) | Words | First written / Last updated |
-| --------------------------------------------- | ----- | --------- | ----: | ---------------------------- |
-| *[Alice’s Story](Alice's%20Story.md)*         |       |           |       |                              |
-| *[Charlotte’s Story](Charlotte's%20Story.md)* |       |           |       |                              |
-| *[Darkrock’s Story](Darkrock's%20Story.md)*   |       |           |       |                              |
-| *[James’s Story](James's%20Story.md)*         |       |           |       |                              |
-| *[Jenesis’s Story](Jenesis's%20Story.md)*     |       |           |       |                              |
-| *[Jenna’s Story](Jenna's%20Story.md)*         |       |           |       |                              |
-| *[Lisa’s Story](Lisa's%20Story.md)*           |       |           |       |                              |
-| *[Mannequin’s Story](Mannequin's%20Story.md)* |       |           |       |                              |
-| *[Marie’s Story](Marie's%20Story.md)*         |       |           |       |                              |
-| *[Minty’s Story](Minty's%20Story.md)*         |       |           |       |                              |
-| *[Philipp’s Story](Philipp's%20Story.md)*     |       |           |       |                              |
-| *[RGB’s Story](RGB's%20Story.md)*             |       |           |       |                              |
-| *[Rick’s Story](Rick's%20Story.md)*           |       |           |       |                              |
-| *[Sasha’s Story](Sasha's%20Story.md)*         |       |           |       |                              |
-| *[Saylor’s Story](Saylor's%20Story.md)*       |       |           |       |                              |
-| *[Toni’s Story](Toni's%20Story.md)*           |       |           |       |                              |
-| *[Wolfgang’s Story](Wolfgang's%20Story.md)*   |       |           |       |                              |
+| Title                                         | Files | Author(s)   | Words | First written / Last updated |
+| --------------------------------------------- | ----- | ----------- | ----: | ---------------------------- |
+| *[Alice’s Story](Alice's%20Story.md)*         |       | *(planned)* |       |                              |
+| *[Charlotte’s Story](Charlotte's%20Story.md)* |       | *(planned)* |       |                              |
+| *[Darkrock’s Story](Darkrock's%20Story.md)*   |       | *(planned)* |       |                              |
+| *[James’s Story](James's%20Story.md)*         |       | *(planned)* |       |                              |
+| *[Jenesis’s Story](Jenesis's%20Story.md)*     |       | *(planned)* |       |                              |
+| *[Jenna’s Story](Jenna's%20Story.md)*         |       | *(planned)* |       |                              |
+| *[Lisa’s Story](Lisa's%20Story.md)*           |       | *(planned)* |       |                              |
+| *[Mannequin’s Story](Mannequin's%20Story.md)* |       | *(planned)* |       |                              |
+| *[Marie’s Story](Marie's%20Story.md)*         |       | *(planned)* |       |                              |
+| *[Minty’s Story](Minty's%20Story.md)*         |       | *(planned)* |       |                              |
+| *[Philipp’s Story](Philipp's%20Story.md)*     |       | *(planned)* |       |                              |
+| *[RGB’s Story](RGB's%20Story.md)*             |       | *(planned)* |       |                              |
+| *[Rick’s Story](Rick's%20Story.md)*           |       | *(planned)* |       |                              |
+| *[Sasha’s Story](Sasha's%20Story.md)*         |       | *(planned)* |       |                              |
+| *[Saylor’s Story](Saylor's%20Story.md)*       |       | *(planned)* |       |                              |
+| *[Toni’s Story](Toni's%20Story.md)*           |       | *(planned)* |       |                              |
+| *[Wolfgang’s Story](Wolfgang's%20Story.md)*   |       | *(planned)* |       |                              |
 
 ### *[Bombs vs. Sleepwalkers 3D](Bombs%20vs.%20Sleepwalkers%203D.md)*
 

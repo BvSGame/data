@@ -1,5 +1,5 @@
 ---
 tags:
   - Aliases
-  - EmptyPages
+  - 99WordsOrLower
 ---

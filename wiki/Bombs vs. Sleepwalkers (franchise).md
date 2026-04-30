@@ -1,14 +1,13 @@
 ---
+tags:
+  - Franchise
+  - 1000Words
+version: 0.1.504
 aliases:
   - Bombs vs. Sleepwalkers franchise
   - Bombs vs. Sleepwalkers game series
   - Bombs vs. Sleepwalkers
   - franchise
-  - Franchise
-contributors:
-  - liledix4
-version: 0.1.504
-tags:
   - Franchise
 ---
 ***Bombs vs. Sleepwalkers*** (*BvS*) is not only a series of games, but also an indie franchise with a variety of mediums.

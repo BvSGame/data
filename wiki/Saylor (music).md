@@ -1,9 +1,8 @@
 ---
 tags:
   - Music
+  - 99WordsOrLower
 version: 0.1.504
-contributors:
-  - liledix4
 aliases:
   - Saylor’s Theme
   - Saylor’s leitmotif

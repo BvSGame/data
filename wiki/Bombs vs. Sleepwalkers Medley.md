@@ -1,13 +1,12 @@
 ---
-aliases:
-  - BvS Medley
 tags:
   - LiveEvents
   - UpcomingContent
   - Music
-contributors:
-  - liledix4
+  - 100Words
 version: 0.1.504
+aliases:
+  - BvS Medley
 ---
 _**Bombs vs. Sleepwalkers Medley**_, shortened as _**BvS Medley**_ or simply _**Medley**_, is an ongoing musical event by [liledix⁴](liledix4.md).
 
@@ -21,11 +20,11 @@ Playlist with all currently released parts of *Medley* can be found on [YouTube]
 
 ## Goals of *Medley*
 
-#TBA
+#2do 
 
 ## Production challenges and postponements
 
-#TBA
+#2do 
 
 ## Track list
 

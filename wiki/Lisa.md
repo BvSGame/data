@@ -1,8 +1,7 @@
 ---
 tags:
   - Characters
-contributors:
-  - liledix4
+  - 99WordsOrLower
 version: 0.1.504
 ---
 **Lisa** appears to be a virtual assistant. Eventually, she becomes a supporting member of [Team Saylor](Team%20Saylor.md).

@@ -1,10 +1,10 @@
 ---
+tags:
+  - 100Words
+version: 0.1.512
 aliases:
   - challenge star
   - challenge stars
-contributors:
-  - liledix4
-version: 0.1.512
 ---
 **Challenge stars** are a special metric of progress in the [*Bombs vs. Sleepwalkers* game series](Bombs%20vs.%20Sleepwalkers%20(franchise).md). While you can complete every level (or every most important level) to reach normal ending, challenge stars are necessary to collect in order to get a better ending.
 
@@ -22,7 +22,7 @@ Because of the nature of the visual novel genre, there are no challenge stars in
 
 ### In *BvS 1*
 
-#TBA — Reference to the level system.
+- [ ] #2do Reference to the level system.
 
 In *BvS 1*, most levels have 3 “objective” challenge stars. You can choose these stars to collect, each of the stars have their objectives you need to complete to get a star.
 

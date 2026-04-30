@@ -1,9 +1,8 @@
 ---
 tags:
   - Music
+  - 100Words
 version: 0.1.504
-contributors:
-  - liledix4
 aliases:
   - Lisa’s Theme
   - Lisa’s leitmotif

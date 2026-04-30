@@ -1,4 +1,4 @@
 ---
 tags:
-  - EmptyPages
+  - 99WordsOrLower
 ---

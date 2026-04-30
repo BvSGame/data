@@ -1,9 +1,7 @@
 ---
 tags:
   - Characters
-contributors:
-  - BlazingZephyr
-  - liledix4
+  - 99WordsOrLower
 version: 0.1.502
 aliases:
   - Phil
@@ -13,6 +11,8 @@ aliases:
   - Phillip
 ---
 **Philipp** is a supporting member of [Team Saylor](Team%20Saylor.md).
+
+Philipp as a character is created by [ZaBlazzingZephyrus](blazingzephyr.md).
 
 ## Physicality
 

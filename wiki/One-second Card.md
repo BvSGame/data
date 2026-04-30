@@ -1,6 +1,6 @@
 ---
-contributors:
-  - liledix4
+tags:
+  - 100Words
 version: 0.1.513
 ---
 ***One-second Card***, numbered as “Draft 8, Part 1/2,” is the script draft for [*Bombs vs. Sleepwalkers* game series](Bombs%20vs.%20Sleepwalkers%20(franchise).md), written during [April 2026 update](April%202026%20update.md).

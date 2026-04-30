@@ -1,6 +1,6 @@
 ---
+tags:
+  - 99WordsOrLower
 aliases:
   - X
-tags:
-  - EmptyPages
 ---
