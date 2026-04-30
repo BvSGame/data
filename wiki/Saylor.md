@@ -18,9 +18,9 @@ Saylor as a character is created by [liledix⁴](liledix4.md), with ideas pitche
 
 ## Character
 
-### Parallels with *Doctor Who*
+### Parallels with *[Doctor Who](Doctor%20Who.md)*
 
-> [!QUOTE] [liledix⁴](liledix4.md):
+> [!QUOTE] liledix⁴:
 > Personally, I imagined Saylor being a mixture of the Fifth, Sixth and Twelfth Doctors. But there are times when she behaves like the Seventh Doctor, happens during the intellectual confrontation, specifically with [Jenesis](Jenesis.md).
 > 
 > She is very sarcastic, she can be annoyed and grumpy at times, she may consider herself smarter than her opponents, and she can be manipulative. That's not quite a person you’d like to be a proper hero.
