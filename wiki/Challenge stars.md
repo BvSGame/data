@@ -22,7 +22,7 @@ Because of the nature of the visual novel genre, there are no challenge stars in
 
 ### In *BvS 1*
 
-- [ ] #2do Reference to the level system.
+- [ ] Reference to the level system.
 
 In *BvS 1*, most levels have 3 “objective” challenge stars. You can choose these stars to collect, each of the stars have their objectives you need to complete to get a star.
 

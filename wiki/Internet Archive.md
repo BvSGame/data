@@ -1,4 +1,6 @@
 ---
+tags:
+  - 100Words
 aliases:
   - Archive.org
 ---

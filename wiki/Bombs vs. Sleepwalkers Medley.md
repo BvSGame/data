@@ -20,11 +20,11 @@ Playlist with all currently released parts of *Medley* can be found on [YouTube]
 
 ## Goals of *Medley*
 
-#2do 
+- [ ] What are the goals of *Medley*?
 
 ## Production challenges and postponements
 
-#2do 
+- [ ] Mention the most challenging parts in production and what caused the postponements.
 
 ## Track list
 
@@ -72,3 +72,7 @@ As of **March 18, 2026**, parts of *Medley* has been released as follows:
 - **Part 2** (March 1, 2026) has full version of *Fleeing the Urban Chaos*.
 - **Part 3** (March 6, 2026) has remastered version of *Sleepwalkers are Raidin’*.
 - **Part 4** (March 17, 2026) has remastered version of *Radioactive City*.
+
+## What can be done to keep working
+
+- [ ] #FOCUS Check if any plugins are broken after many changes in the system.

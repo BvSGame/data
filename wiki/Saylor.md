@@ -2,7 +2,7 @@
 tags:
   - Characters
   - 100Words
-version: 0.1.504
+version: 0.1.514
 ---
 **Saylor** is a [protagonist](Protagonist.md) of [*Bombs vs. Sleepwalkers* franchise](Bombs%20vs.%20Sleepwalkers%20(franchise).md).
 

@@ -2,7 +2,10 @@
 title: Bombs vs. Sleepwalkers Wiki
 tags:
   - 500Words
-version: 0.1.514
+version: 0.1.517
+aliases:
+  - Wiki
+  - BvS Wiki
 ---
 ![Cover of Bombs vs. Sleepwalkers Wiki](https://media.bvsga.me/brand/covers/bvs_wiki_cover.jpg)
 
@@ -21,7 +24,7 @@ You can start your journey by **using the search bar** or **[going through the l
 
 | Version number | Last updated |
 | -- | -- |
-| 0.1.514 | April 30, 2026 |
+| 0.1.517 | May 3, 2026 |
 
 ## Sources and mirrors of wiki
 

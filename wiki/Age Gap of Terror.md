@@ -23,8 +23,8 @@ version: 0.1.513
 
 ## Synopsis
 
-#2do 
+- [ ] Write the synopsis of the story.
 
 ## Highlights
 
-#2do 
+- [ ] Write down the highlights of the story.

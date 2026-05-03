@@ -16,4 +16,4 @@ Jenesis’s [catchphrase](Catchphrase.md) is “[Exquisite](Exquisite.md).”
 
 As it’s been said, liledix⁴ and ZaBlazzingZephyrus have differences in how they see the character of Jenesis. But, it’s not a significant problem. liledix⁴ keeps writing the scripts, but he planned to consult with ZaBlazzingZephyrus about Jenesis so that they both could create a character that fits both visions perfectly.
 
-- [ ] #2do What are the exact contradictory points in the characterization of Jenesis?
+- [ ] What are the exact contradictory points in the characterization of Jenesis?

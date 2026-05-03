@@ -26,8 +26,8 @@ aliases:
 
 ## Synopsis
 
-#TBA 
+- [ ] Write the synopsis of the story.
 
 ## Highlights
 
-#TBA 
+- [ ] Write down the highlights of the story.

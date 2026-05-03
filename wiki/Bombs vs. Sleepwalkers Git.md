@@ -45,4 +45,4 @@ Normally, all updates for Git repositories are simultaneously pushed to multiple
 
 ### There are more repositories that are not mentioned here
 
-Therefore, #2do !
+- [ ] Mention more Git repositories that are parts of *Bombs vs. Sleepwalkers* franchise.

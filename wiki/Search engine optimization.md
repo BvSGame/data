@@ -1,4 +1,6 @@
 ---
+tags:
+  - 100Words
 aliases:
   - SEO
 ---
@@ -6,7 +8,7 @@ aliases:
 
 ## What for?
 
-#TBA
+- [ ] Why is search engine optimization necessary for *Bombs vs. Sleepwalkers* project?
 
 ## Nuances of SEO
 
@@ -27,4 +29,4 @@ Some search engines may implement **IndexNow** feature. [See their documentation
 - **Google Search**:
 	- There is [Google Search Console](https://search.google.com/search-console) that is able to read [sitemaps](Sitemap.md).
 - **Yandex**:
-	- #TBA
+	- [ ] What is specific about search engine optimization for Yandex?
