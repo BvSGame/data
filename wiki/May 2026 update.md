@@ -7,7 +7,7 @@ aliases:
 ---
 ## List of new script drafts
 
-In **May 2026**, [liledix⁴](liledix4.md) wrote **6 script drafts** (5 numbered and 1 “Side Note”) for [*Bombs vs. Sleepwalkers* franchise](Bombs%20vs.%20Sleepwalkers%20(franchise).md).
+In **May 2026**, [liledix⁴](liledix4.md) wrote **7 script drafts** (6 numbered and 1 “Side Note”) for [*Bombs vs. Sleepwalkers* franchise](Bombs%20vs.%20Sleepwalkers%20(franchise).md).
 
 ### *Saylor and Lisa*
 
