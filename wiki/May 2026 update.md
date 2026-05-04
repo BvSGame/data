@@ -15,11 +15,11 @@ In **May 2026**, [liledix⁴](liledix4.md) wrote **7 script drafts** (6 numbered
 
 | Prod. no. | Draft no. | Draft title                          |  First written in | Author(s)    |     Words | Note |
 | --------: | --------: | ------------------------------------ | ----------------: | ------------ | --------: | ---- |
-|         1 |         1 | *No Escape*                          |       May 2, 2026 | liledix⁴     |       811 |      |
-|         2 |         2 | *The Internet Librarian*             |       May 2, 2026 | liledix⁴     |       691 |      |
-|         3 |         3 | *Housewife 1.0*                      |       May 2, 2026 | liledix⁴     |       643 |      |
-|         4 |         4 | *Saylor at Home*                     |       May 2, 2026 | liledix⁴     |       948 |      |
-|         5 |         5 | *The Fab Watch*                      |       May 3, 2026 | liledix⁴     |       928 |      |
-|         6 |      Side | *Honey, I’ve Entered a Visual Novel* |       May 4, 2026 | liledix⁴     |       391 |      |
-|         7 |         6 | *I, Human*                           |       May 4, 2026 | liledix⁴     |     1,113 |      |
-|           |           | **Total**                            | **May 2-4, 2026** | **liledix⁴** | **5,525** |      |
+|         1 |         1 | *No Escape*                          |       May 2, 2026 | liledix⁴     |       817 |      |
+|         2 |         2 | *The Internet Librarian*             |       May 2, 2026 | liledix⁴     |       698 |      |
+|         3 |         3 | *Housewife 1.0*                      |       May 2, 2026 | liledix⁴     |       647 |      |
+|         4 |         4 | *Saylor at Home*                     |       May 2, 2026 | liledix⁴     |       953 |      |
+|         5 |         5 | *The Fab Watch*                      |       May 3, 2026 | liledix⁴     |       933 |      |
+|         6 |      Side | *Honey, I’ve Entered a Visual Novel* |       May 4, 2026 | liledix⁴     |       399 |      |
+|         7 |         6 | *I, Human*                           |       May 4, 2026 | liledix⁴     |     1,117 |      |
+|           |           | **Total**                            | **May 2-4, 2026** | **liledix⁴** | **5,564** |      |
