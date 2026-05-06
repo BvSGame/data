@@ -4,7 +4,13 @@ tags:
 aliases:
   - BvS Data
 ---
-**Bombs vs. Sleepwalkers Data**, or simply **BvS Data**, is a repository that contains regularly updated static data for various needs. Whether one needs to build a wiki, or fetch structure of levels, or get a list of music tracks from soundtracks, one always relies on this repository.
+***Bombs vs. Sleepwalkers Data***, or simply ***BvS Data***, is a repository that contains regularly updated static data for various needs. Whether one needs to build a wiki, or fetch structure of levels, or get a list of music tracks from soundtracks, one always relies on this repository.
+
+| The What             | The Details                                                                                                                                 |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| Active maintainer(s) | [liledix⁴](liledix4.md)                                                                                                                     |
+| Git repositories     | [Codeberg](https://codeberg.org/bvs/data)<br>[GitHub](https://github.com/bvsgame/data)<br>[sourcehut](https://git.sr.ht/~liledix4/bvs_data) |
+| Links                | [data.bvsga.me](https://data.bvsga.me)<br>[GitHub Pages](https://bvsgame.github.io/data)                                                    |
 
 ## Types of data
 

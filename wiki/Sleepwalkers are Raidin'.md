@@ -11,9 +11,9 @@ aliases:
 
 This track is a part of *[Bombs vs. Sleepwalkers Medley](Bombs%20vs.%20Sleepwalkers%20Medley.md)*.
 
-| Information | Value                   |
-| ----------- | ----------------------- |
-| Composer    | [liledix⁴](liledix4.md) |
+| The What | The Details             |
+| -------- | ----------------------- |
+| Composer | [liledix⁴](liledix4.md) |
 
 ## Listen
 

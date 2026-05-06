@@ -8,7 +8,7 @@ version: 0.1.504
 
 In 2018, Marie was a girlfriend of [Rick](Rick.md).
 
-| Information                       | Value                                              |
+| The What                          | The Details                                        |
 | --------------------------------- | -------------------------------------------------- |
 | Birth date                        | March 9, 2003                                      |
 | Age                               | 21                                                 |

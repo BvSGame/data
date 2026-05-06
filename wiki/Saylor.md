@@ -8,7 +8,7 @@ version: 0.1.514
 
 Saylor as a character is created by [liledix⁴](liledix4.md), with ideas pitched by [ZaBlazzingZephyrus](blazingzephyr.md).
 
-| Information                       | Value                                                                                                                                 |
+| The What                          | The Details                                                                                                                           |
 | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | Birth date                        | August 30, 2003                                                                                                                       |
 | Age                               | 21 (as of 2024)                                                                                                                       |

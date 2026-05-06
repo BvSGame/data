@@ -1,14 +1,19 @@
 ---
 tags:
   - Characters
+  - 100Words
+version: 0.1.523
+aliases:
+  - Antoinette
 ---
-**Toni** (short for Antoinette) is a sharpshooter from [Wild West](Wild%20West.md).
+**Toni** (short for Antoinette) is a sharpshooter from the [Wild West town](Wild%20West%20town.md).
 
-| Information                       | Value                                        |
-| --------------------------------- | -------------------------------------------- |
-| Birth date                        | 1841                                         |
-| Age                               | 19                                           |
-| Original location and time period | [Wild West](Wild%20West.md), [1860](1860.md) |
+| The What                          | The Details                                   |
+| --------------------------------- | --------------------------------------------- |
+| Birth date                        | 1841                                          |
+| Age                               | 19                                            |
+| Original location and time period | [Wild West town](Wild%20West%20town.md), [1860](1860.md)  |
+| First appearance                  | *[Not O.K. Quarrel](Not%20O.K.%20Quarrel.md)* |
 
 ## Dynamics with other characters
 

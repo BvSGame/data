@@ -6,7 +6,7 @@ version: 0.1.503
 ---
 **Alice** is a character from [3000s](3000s.md).
 
-| Information                       | Value             |
+| The What                          | The Details       |
 | --------------------------------- | ----------------- |
 | Birth date                        | 31st century      |
 | Age                               | 19                |

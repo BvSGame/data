@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="AQPzNpNrfcDVEjxWpoUN">
+    <mxGraphModel dx="975" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PzwNe2D5qJkr-uLeMFjc-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Testing" vertex="1">
+          <mxGeometry height="30" width="60" x="220" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="QvwOoYobQSduXRfV2LwN-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=default;align=center;verticalAlign=middle;rounded=0;gradientColor=none;fillStyle=auto;fontFamily=Sofia Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DSofia%2BSans;" value="v0.1.523" vertex="1">
+          <mxGeometry height="40" width="80" x="480" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="QvwOoYobQSduXRfV2LwN-2" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;textShadow=1;labelBackgroundColor=default;labelBorderColor=default;autosizeText=0;fontSize=12;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=0;spacing=2;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font face=&quot;Tektur&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Tektur&quot;&gt;Bombs vs. Sleepwalkers Flowchart&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font face=&quot;Sofia Sans&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Sofia+Sans&quot;&gt;v0.1.523&lt;/font&gt;&lt;/div&gt;&lt;p&gt;&lt;font face=&quot;Sofia Sans&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Sofia+Sans&quot;&gt;If you want to contribute:&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Sofia Sans&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Sofia+Sans&quot;&gt;&amp;nbsp; •&amp;nbsp; Send the XML file to BvS maintainers (or liledix⁴ personally). Create pull requests or issues in &lt;a href=&quot;https://quartz.bvsga.me/Bombs-vs.-Sleepwalkers-Data&quot;&gt;BvS Data repository&lt;/a&gt;.&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;display: none !important;&quot;&gt;&amp;nbsp;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="190" width="390" x="437" y="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

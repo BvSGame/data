@@ -2,7 +2,7 @@
 title: Bombs vs. Sleepwalkers Wiki
 tags:
   - 500Words
-version: 0.1.521
+version: 0.1.523
 aliases:
   - Wiki
   - BvS Wiki
@@ -24,7 +24,7 @@ You can start your journey by **using the search bar** or **[going through the l
 
 | Version number | Last updated |
 | -- | -- |
-| 0.1.521 | May 4, 2026 |
+| 0.1.523 | May 6, 2026 |
 
 ## Sources and mirrors of wiki
 

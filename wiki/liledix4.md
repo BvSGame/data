@@ -8,7 +8,7 @@ version: 0.1.514
 
 When there are no people who are able to contribute to the project (they may be busy, or the project itself is under-advertised), liledix⁴ does the maintenance and content creation alone, whenever it’s possible.
 
-| Info                          | Value                                                                                  |
+| The What                      | The Details                                                                            |
 | ----------------------------- | -------------------------------------------------------------------------------------- |
 | Name                          | liledix⁴                                                                               |
 | Pronounciation of the name    | lil-ediks-four                                                                         |
