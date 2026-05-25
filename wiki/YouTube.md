@@ -1,6 +1,6 @@
 ---
 tags:
-  - 99WordsOrLower
+  - 99WordsOrLess
 version: 0.1.512
 ---
 YouTube channel of [*Bombs vs. Sleepwalkers* franchise](Bombs%20vs.%20Sleepwalkers%20(franchise).md) has been created in **February 29, 2024**.

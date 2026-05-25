@@ -1,6 +1,6 @@
 ---
 tags:
-  - 99WordsOrLower
+  - 99WordsOrLess
 version: 0.1.513
 aliases:
   - time travel

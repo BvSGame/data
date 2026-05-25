@@ -1,7 +1,7 @@
 ---
 tags:
   - Characters
-  - 99WordsOrLower
+  - 99WordsOrLess
 version: 0.1.503
 ---
 **Alice** is a character from [3000s](3000s.md).

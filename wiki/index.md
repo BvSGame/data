@@ -6,6 +6,7 @@ version: 0.1.523
 aliases:
   - Wiki
   - BvS Wiki
+  - Bombs vs. Sleepwalkers Wiki
 ---
 ![Cover of Bombs vs. Sleepwalkers Wiki](https://media.bvsga.me/brand/covers/bvs_wiki_cover.jpg)
 

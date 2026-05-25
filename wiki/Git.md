@@ -1,6 +1,6 @@
 ---
 tags:
-  - 99WordsOrLower
+  - 99WordsOrLess
 ---
 
 ## Git platforms sorted by priority

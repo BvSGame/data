@@ -1,5 +1,5 @@
 ---
 tags:
   - Characters
-  - 99WordsOrLower
+  - 99WordsOrLess
 ---

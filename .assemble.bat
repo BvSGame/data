@@ -1,2 +1,2 @@
 @ECHO off
-node ".assemble.mjs"
+node "./maintenance/assemble.mjs"

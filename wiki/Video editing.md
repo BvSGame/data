@@ -1,6 +1,6 @@
 ---
 tags:
-  - 99WordsOrLower
+  - 99WordsOrLess
 aliases:
   - After Effects
   - Adobe After Effects

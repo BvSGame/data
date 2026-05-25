@@ -1,8 +1,7 @@
 import { readFileSync, writeFile } from 'node:fs';
-import { config } from './.config.mjs';
-
-
-const zeroPad = ( num, places ) => String( num ).padStart( places, '0' );
+import { config } from '../.config.mjs';
+import { getWeekdayInteger } from '../modules/get_weekday_integer.mjs';
+import { zeroPad } from '../modules/zero_pad.mjs';
 
 
 const initial = {
@@ -99,7 +98,7 @@ class GetUpdatedContent {
   static wikiNewNoteTemplate() {
     return `---
 tags:
-  - 99WordsOrLower
+  - 99WordsOrLess
 version: ${ newVersionObject.version.short }
 ---
 `
@@ -148,19 +147,4 @@ async function doWriteFile( path, content ) {
 function writeFileCallback( err ) {
   if ( err )
     console.log( err );
-}
-
-
-function getWeekdayInteger( date ) {
-  if ( date === undefined ) date = new Date();
-  const weekdayString = date.toLocaleString( 'en-US', { weekday: 'short' } );
-  switch ( weekdayString ) {
-    case 'Mon': return 1;
-    case 'Tue': return 2;
-    case 'Wed': return 3;
-    case 'Thu': return 4;
-    case 'Fri': return 5;
-    case 'Sat': return 6;
-    case 'Sun': return 7;
-  }
 }

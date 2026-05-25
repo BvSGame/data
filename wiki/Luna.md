@@ -1,5 +1,5 @@
 ---
 tags:
   - Aliases
-  - 99WordsOrLower
+  - 99WordsOrLess
 ---

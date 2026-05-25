@@ -1,7 +1,7 @@
 ---
 title: ⚙️ Reserved tags
 tags:
-  - 99WordsOrLower
+  - 99WordsOrLess
   - ServicePages
 version: 0.1.514
 ---

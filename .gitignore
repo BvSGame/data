@@ -1,5 +1,6 @@
 **/*.ffs_db
 **/*.ffs_lock
+**/node_modules/
 /.private/
 **/.stfolder/
 **/.stignore

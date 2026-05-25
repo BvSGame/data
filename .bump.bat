@@ -1,2 +1,2 @@
 @ECHO off
-node ".assemble.mjs" "versionbump"
+node "./maintenance/assemble.mjs" "versionbump"

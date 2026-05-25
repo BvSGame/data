@@ -1,6 +1,6 @@
 ---
 tags:
-  - 99WordsOrLower
+  - 99WordsOrLess
 aliases:
   - Generative AI
   - Artificial intelligence

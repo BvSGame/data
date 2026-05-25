@@ -1,7 +1,7 @@
 ---
 tags:
   - ReferencesToOtherMedia
-  - 99WordsOrLower
+  - 99WordsOrLess
 version: 0.1.504
 aliases:
   - DDLC:NH

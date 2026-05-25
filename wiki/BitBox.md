@@ -1,7 +1,7 @@
 ---
 tags:
   - Aliases
-  - 99WordsOrLower
+  - 99WordsOrLess
 version: 0.1.503
 ---
 **BitBox** is an alias of =={REDACTED: BitBox Alias}==.

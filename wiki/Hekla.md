@@ -1,5 +1,5 @@
 ---
 tags:
   - Locations
-  - 99WordsOrLower
+  - 99WordsOrLess
 ---
