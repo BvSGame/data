@@ -122,9 +122,9 @@ Medley Intro contains two reused motifs: Saylor’s leitmotif and the main theme
 
 ## Track 4: Home
 
-<center>
+<div align=center>
 
-![](https://media.bvsga.me/text_assets/bvsmedley_track04.png)</center>
+![](https://media.bvsga.me/text_assets/bvsmedley_track04.png)</div>
 
 ## Track 5: Present Time, Outdoors
 
