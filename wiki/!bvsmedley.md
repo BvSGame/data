@@ -3,9 +3,9 @@ title: 💣 Bombs vs. Sleepwalkers Medley (2026)
 ---
 # Bombs vs. Sleepwalkers Medley (2026)
 
-<center>
+<div align="center">
 
-![](https://media.bvsga.me/brand/covers/medley2026/bvsmedley2026_cover.png)</center>
+![](https://media.bvsga.me/brand/covers/medley2026/bvsmedley2026_cover.png)</div>
 
 |                                    |                                                                                                    |
 | ---------------------------------- | -------------------------------------------------------------------------------------------------- |
@@ -26,9 +26,9 @@ This document is available in the following formats (pick the most comfortable f
 
 ## What is Bombs vs. Sleepwalkers?
 
-<center>
+<div align="center">
 
-![](https://media.bvsga.me/text_assets/bvsmedley_whatisbvs.png)</center>
+![](https://media.bvsga.me/text_assets/bvsmedley_whatisbvs.png)</div>
 
 "Bombs vs. Sleepwalkers" (or BvS for short) is a sci-fi series of games of various genres (primarily tower defense), in development since 2023 when reboot of the project happened. Before 2023, there were many concepts since early 2010s, the earliest piece of BvS content exists since 2014.
 
@@ -40,23 +40,23 @@ Currently I, liledix⁴, am working on this game alone, however my friends provi
 
 ## About Bombs vs. Sleepwalkers Medley
 
-<center>
+<div align="center">
 
-![](https://media.bvsga.me/text_assets/bvsmedley_aboutmedley.png)</center>
+![](https://media.bvsga.me/text_assets/bvsmedley_aboutmedley.png)</div>
 
 ## Disclaimer! No Generative AI!
 
-<center>
+<div align="center">
 
-![](https://media.bvsga.me/text_assets/bvsmedley_disclaimer.png)</center>
+![](https://media.bvsga.me/text_assets/bvsmedley_disclaimer.png)</div>
 
 To be honest, I always considered the “em dash” argument flawed and blind to nuances. I know people normally don’t use those in the casual conversations. But it doesn’t mean those are necessarily difficult to put into the text if you *intend* to, to make it look clean, professional, and easier to read. Mobile keyboards support em dash: just hold your finger on the hyphen, and there you have it. In Windows, it’s not difficult to remember the ``Alt+0151`` combination, not to mention Emoji Panel (``Win+.``) and Character Map. Some programs and apps even allow to put two or three hyphens in a row to get en dash and em dash, Obsidian even has a plugin for that (called Smart Typography). Hell, you can just go google and copy-paste! I’m really geeking hard over punctuation, so give me a pass on that. 😄
 
 ## Script Drafts
 
-<center>
+<div align="center">
 
-![](https://media.bvsga.me/text_assets/bvsmedley_scriptdrafts.png)</center>
+![](https://media.bvsga.me/text_assets/bvsmedley_scriptdrafts.png)</div>
 
 To get better feel of lore, you can read **script drafts** which are SUBJECT TO CHANGE! I’ve just pitched various ideas to polish them later.
 
@@ -98,9 +98,9 @@ To get better feel of lore, you can read **script drafts** which are SUBJECT TO 
 
 ## Track 1: Medley Intro
 
-<center>
+<div align="center">
 
-![](https://media.bvsga.me/text_assets/bvsmedley_track01.png)</center>
+![](https://media.bvsga.me/text_assets/bvsmedley_track01.png)</div>
 
 The very first, introductory track that immediately sets the tone of the entire Medley. Grand, orchestral and cinematic.
 
@@ -110,174 +110,174 @@ Medley Intro contains two reused motifs: Saylor’s leitmotif and the main theme
 
 ## Track 2: Saylor
 
-<center>
+<div align="center">
 
-![](https://media.bvsga.me/text_assets/bvsmedley_track02.png)</center>
+![](https://media.bvsga.me/text_assets/bvsmedley_track02.png)</div>
 
 ## Track 3: Bombs vs. Sleepwalkers Theme
 
-<center>
+<div align="center">
 
-![](https://media.bvsga.me/text_assets/bvsmedley_track03.png)</center>
+![](https://media.bvsga.me/text_assets/bvsmedley_track03.png)</div>
 
 ## Track 4: Home
 
-<center>
+<div align="center">
 
-![](https://media.bvsga.me/text_assets/bvsmedley_track04.png)</center>
+![](https://media.bvsga.me/text_assets/bvsmedley_track04.png)</div>
 
 ## Track 5: Present Time, Outdoors
 
-<center>
+<div align="center">
 
-![](https://media.bvsga.me/text_assets/bvsmedley_track05.png)</center>
+![](https://media.bvsga.me/text_assets/bvsmedley_track05.png)</div>
 
 ## Track 6: Loading
 
-<center>
+<div align="center">
 
-![](https://media.bvsga.me/text_assets/bvsmedley_track06.png)</center>
+![](https://media.bvsga.me/text_assets/bvsmedley_track06.png)</div>
 
 ## Track 7: Present Time, Part 1 + Sleepwalkers are Raidin’
 
-<center>
+<div align="center">
 
-![](https://media.bvsga.me/text_assets/bvsmedley_track07.png)</center>
+![](https://media.bvsga.me/text_assets/bvsmedley_track07.png)</div>
 
 ## Track 8: Time Machine
 
-<center>
+<div align="center">
 
-![](https://media.bvsga.me/text_assets/bvsmedley_track08.png)</center>
+![](https://media.bvsga.me/text_assets/bvsmedley_track08.png)</div>
 
 ## Track 9: Tutorial
 
-<center>
+<div align="center">
 
-![](https://media.bvsga.me/text_assets/bvsmedley_track09.png)</center>
+![](https://media.bvsga.me/text_assets/bvsmedley_track09.png)</div>
 
 ## Track 10: Wild West
 
-<center>
+<div align="center">
 
-![](https://media.bvsga.me/text_assets/bvsmedley_track10.png)</center>
+![](https://media.bvsga.me/text_assets/bvsmedley_track10.png)</div>
 
 ## Track 11: Toni
 
-<center>
+<div align="center">
 
-![](https://media.bvsga.me/text_assets/bvsmedley_track11.png)</center>
+![](https://media.bvsga.me/text_assets/bvsmedley_track11.png)</div>
 
 ## Track 12: 2345
 
-<center>
+<div align="center">
 
-![](https://media.bvsga.me/text_assets/bvsmedley_track12.png)</center>
+![](https://media.bvsga.me/text_assets/bvsmedley_track12.png)</div>
 
 ## Track 13: Future on Fire
 
-<center>
+<div align="center">
 
-![](https://media.bvsga.me/text_assets/bvsmedley_track13.png)</center>
+![](https://media.bvsga.me/text_assets/bvsmedley_track13.png)</div>
 
 ## Track 14: Lisa
 
-<center>
+<div align="center">
 
-![](https://media.bvsga.me/text_assets/bvsmedley_track14.png)</center>
+![](https://media.bvsga.me/text_assets/bvsmedley_track14.png)</div>
 
 ## Track 15: 2038
 
-<center>
+<div align="center">
 
-![](https://media.bvsga.me/text_assets/bvsmedley_track15.png)</center>
+![](https://media.bvsga.me/text_assets/bvsmedley_track15.png)</div>
 
 ## Track 16: Fleeing the Urban Chaos
 
-<center>
+<div align="center">
 
-![](https://media.bvsga.me/text_assets/bvsmedley_track16.png)</center>
+![](https://media.bvsga.me/text_assets/bvsmedley_track16.png)</div>
 
 ## Track 17: Radioactive City
 
-<center>
+<div align="center">
 
-![](https://media.bvsga.me/text_assets/bvsmedley_track17.png)</center>
+![](https://media.bvsga.me/text_assets/bvsmedley_track17.png)</div>
 
 ## Track 18: 1980s
 
-<center>
+<div align="center">
 
-![](https://media.bvsga.me/text_assets/bvsmedley_track18.png)</center>
+![](https://media.bvsga.me/text_assets/bvsmedley_track18.png)</div>
 
 ## Track 19: 1960s
 
-<center>
+<div align="center">
 
-![](https://media.bvsga.me/text_assets/bvsmedley_track19.png)</center>
+![](https://media.bvsga.me/text_assets/bvsmedley_track19.png)</div>
 
 ## Track 20: Medieval Fortress
 
-<center>
+<div align="center">
 
-![](https://media.bvsga.me/text_assets/bvsmedley_track20.png)</center>
+![](https://media.bvsga.me/text_assets/bvsmedley_track20.png)</div>
 
 ## Track 21: Cube-Simulator / Darkrock’s Theme
 
-<center>
+<div align="center">
 
-![](https://media.bvsga.me/text_assets/bvsmedley_track21.png)</center>
+![](https://media.bvsga.me/text_assets/bvsmedley_track21.png)</div>
 
 ## Track 22: The Moon’s Surface
 
-<center>
+<div align="center">
 
-![](https://media.bvsga.me/text_assets/bvsmedley_track22.png)</center>
+![](https://media.bvsga.me/text_assets/bvsmedley_track22.png)</div>
 
 ## Track 23: The Moonbase Espionage
 
-<center>
+<div align="center">
 
-![](https://media.bvsga.me/text_assets/bvsmedley_track23.png)</center>
+![](https://media.bvsga.me/text_assets/bvsmedley_track23.png)</div>
 
 ## Track 24: The Boss is Near!
 
-<center>
+<div align="center">
 
-![](https://media.bvsga.me/text_assets/bvsmedley_track24.png)</center>
+![](https://media.bvsga.me/text_assets/bvsmedley_track24.png)</div>
 
 ## Track 25: Boss Battle
 
-<center>
+<div align="center">
 
-![](https://media.bvsga.me/text_assets/bvsmedley_track25.png)</center>
+![](https://media.bvsga.me/text_assets/bvsmedley_track25.png)</div>
 
 ## Track 26: Boom Time!
 
-<center>
+<div align="center">
 
-![](https://media.bvsga.me/text_assets/bvsmedley_track26.png)</center>
+![](https://media.bvsga.me/text_assets/bvsmedley_track26.png)</div>
 
 ## Track 27: Hardcore Mode
 
-<center>
+<div align="center">
 
-![](https://media.bvsga.me/text_assets/bvsmedley_track27.png)</center>
+![](https://media.bvsga.me/text_assets/bvsmedley_track27.png)</div>
 
 ## Track 28: Bombs vs. Sleepwalkers Theme (Medley Outro)
 
-<center>
+<div align="center">
 
-![](https://media.bvsga.me/text_assets/bvsmedley_track28.png)</center>
+![](https://media.bvsga.me/text_assets/bvsmedley_track28.png)</div>
 
 ## Track 29: Jenesis / Stellar Gaslight
 
-<center>
+<div align="center">
 
-![](https://media.bvsga.me/text_assets/bvsmedley_track29.png)</center>
+![](https://media.bvsga.me/text_assets/bvsmedley_track29.png)</div>
 
 ## Credits
 
-<center>
+<div align="center">
 
-![](https://media.bvsga.me/text_assets/bvsmedley_credits.png)</center>
+![](https://media.bvsga.me/text_assets/bvsmedley_credits.png)</div>
