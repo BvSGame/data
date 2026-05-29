@@ -163,7 +163,7 @@ Medley Intro contains two reused motifs: Saylor’s leitmotif and the main theme
 
 And here goes the theme for the main protagonist of the franchise. Saylor!
 
-21-years-old student of the technical university.
+21-years-old student of the technical university. Pink-colored beachy bob with blue and violet highlights. Almost always with denim overall dress. Never without sarcasm and witty remarks.
 
 Saylor regularly exclaims “Stellar,” and that’s her catchphrase.
 
